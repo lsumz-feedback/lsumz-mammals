@@ -1,0 +1,194 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 717
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 8
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 62
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-03 ; Times: 2
+	Date: 2014-04-04 ; Times: 2
+	Date: 2014-04-05 ; Times: 3
+	Date: 2014-04-06 ; Times: 9
+	Date: 2014-04-07 ; Times: 1
+	Date: 2014-04-08 ; Times: 4
+	Date: 2014-04-11 ; Times: 3
+	Date: 2014-04-12 ; Times: 3
+	Date: 2014-04-14 ; Times: 1
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-16 ; Times: 7
+	Date: 2014-04-17 ; Times: 10
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-19 ; Times: 1
+	Date: 2014-04-20 ; Times: 6
+	Date: 2014-04-21 ; Times: 6
+	Date: 2014-04-22 ; Times: 4
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-24 ; Times: 5
+	Date: 2014-04-25 ; Times: 5
+	Date: 2014-04-26 ; Times: 1
+	Date: 2014-04-28 ; Times: 3
+	Date: 2014-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scrofa genus:Sus class:Mammalia" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "class:Mammalia Furipterus horrens" ; Times: 2
+	Query: "specificepithet:Axis axis" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "theropithecus" ; Times: 3
+	Query: "genus:manis" ; Times: 9
+	Query: "tylomys" ; Times: 1
+	Query: "akodon orophilus" ; Times: 3
+	Query: "chiroptera type:specimen county:"Grant"" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 1
+	Query: "Procyon stateprovince:"New York"" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 2
+	Query: "dactylomys" ; Times: 1
+	Query: "Heterocephalus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "type:specimen specificepithet:arizonae genus:Sigmodon" ; Times: 1
+	Query: "Bassariscus Texas" ; Times: 1
+	Query: "xenomys nelsoni" ; Times: 1
+	Query: "genus:choloepus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "cervus nippon country:"United States"" ; Times: 1
+	Query: "caenolestes" ; Times: 2
+	Query: "Zapus princeps distance(location,geopoint(34.37971258046215,-106.051025390625))<443990" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 2
+	Query: "sus scrofa" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "type:specimen stateprovince:"Michigan" genus:Tamiasciurus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 2
+	Query: "county:"Brazos" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "Lonchophylla handleyi" ; Times: 3
+	Query: "Taurotragus oryx type:specimen" ; Times: 2
+	Query: "blarina brevicauda illinois" ; Times: 1
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 3
+	Query: "chironectes minimus" ; Times: 1
+	Query: "alouatta AND peru" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 3
+	Query: "genus:sus specificepithet:scrofa institutioncode:lsumz" ; Times: 1
+	Query: "type:specimen genus:isthmomys" ; Times: 1
+	Query: "type:specimen specificepithet:ochrognathus genus:sigmodon" ; Times: 1
+	Query: ""Peromyscus maniculatus" (Illinois) tissue:1" ; Times: 1
+	Query: ""ctenomys" country:"Argentina"" ; Times: 3
+	Query: "choloepus" ; Times: 1
+	Query: "Cryptotis parva illinois" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"New York" tissue:1" ; Times: 1
+	Query: "cavia tschudii" ; Times: 2
+	Query: "capra hircus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 433 download events in this period)
+Total number of records downloaded: 4687 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3687
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-02 ; Times: 2
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-12 ; Times: 2
+	Date: 2014-04-15 ; Times: 5
+	Date: 2014-04-16 ; Times: 2
+	Date: 2014-04-17 ; Times: 2
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-22 ; Times: 5
+	Date: 2014-04-23 ; Times: 2
+	Date: 2014-04-24 ; Times: 1
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "class:Mammalia Furipterus horrens" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"New York"" ; Times: 1
+	Query: ""Mustela nivalis" type:specimen" ; Times: 1
+	Query: "akodon orophilus" ; Times: 1
+	Query: "Procyon stateprovince:"New York"" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "akodon mollis" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "country:"United States" specificepithet:rattus genus:rattus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "cervus nippon country:"United States"" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Angola mammalia" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Thallomys" ; Times: 1
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 1
+	Query: "Chaetodipus" ; Times: 4
+	Query: "genus:sus specificepithet:scrofa institutioncode:lsumz" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"New York"" ; Times: 1
+	Query: "type:specimen genus:isthmomys" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"New York" tissue:1" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 717
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 4713
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 89
+Total number of records retrieved from searches: 717
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 4713
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
