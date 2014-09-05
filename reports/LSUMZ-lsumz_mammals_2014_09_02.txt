@@ -1,0 +1,291 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1909
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 8
+	Country: Brazil ; Times: 10
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 12
+	Country: Guatemala ; Times: 13
+	Country: Israel ; Times: 8
+	Country: Mexico ; Times: 59
+	Country: Netherlands ; Times: 2
+	Country: United States ; Times: 113
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-06 ; Times: 10
+	Date: 2014-08-07 ; Times: 3
+	Date: 2014-08-08 ; Times: 55
+	Date: 2014-08-09 ; Times: 4
+	Date: 2014-08-11 ; Times: 8
+	Date: 2014-08-12 ; Times: 3
+	Date: 2014-08-13 ; Times: 4
+	Date: 2014-08-14 ; Times: 9
+	Date: 2014-08-15 ; Times: 2
+	Date: 2014-08-16 ; Times: 4
+	Date: 2014-08-17 ; Times: 3
+	Date: 2014-08-18 ; Times: 28
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-20 ; Times: 5
+	Date: 2014-08-21 ; Times: 7
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-25 ; Times: 6
+	Date: 2014-08-26 ; Times: 12
+	Date: 2014-08-27 ; Times: 16
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-29 ; Times: 12
+	Date: 2014-08-30 ; Times: 15
+	Date: 2014-08-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia AND (NOT HSU)" ; Times: 1
+	Query: "Chaetophractus" ; Times: 2
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"michigan" (tissue) tissue:1" ; Times: 2
+	Query: "class:Mammalia ateles geoffroyi" ; Times: 3
+	Query: "viscacia" ; Times: 1
+	Query: "country:"mexico" genus:COENDOU" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "Peropteryx kappleri distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Chiroptera Acklins" ; Times: 1
+	Query: "macrotus waterhousii country:"bahamas"" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1940 year <= 1965" ; Times: 1
+	Query: "Cyclopes didactylus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "coendou country:"mexico" year >= 1000 year <= 2014" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"ontario" (tissue) tissue:1" ; Times: 1
+	Query: "class:Mammalia Diaemus youngi" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 2
+	Query: "Histiotus" ; Times: 1
+	Query: "coendou" ; Times: 10
+	Query: "Chiroptera Inagua" ; Times: 1
+	Query: "coendou prehensilis tissue:1" ; Times: 1
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Macrophyllum macrophyllum distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Fortune Chiroptera" ; Times: 2
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "myocastor" ; Times: 3
+	Query: "Cyclopes tissue:1" ; Times: 2
+	Query: "Chiroptera Mayaguana" ; Times: 2
+	Query: "coendou country:"mexico" year >= 1530 year <= 2014" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 2
+	Query: "Chiroptera michigan tissue:1" ; Times: 1
+	Query: "Cyclopes didactylus tissue:1" ; Times: 1
+	Query: "coendou country:"mexico" genus:coendou year >= 1530 year <= 2014" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "coendou (mexico)" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "dinomys" ; Times: 1
+	Query: "Chiroptera Crooked (Bahama OR Bahamas)" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"Indiana" (tissue) tissue:1" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 1965" ; Times: 4
+	Query: "Sciurillus pusillus" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 1960" ; Times: 2
+	Query: "Tayassu pecari distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"tennessee" (tissue) tissue:1" ; Times: 1
+	Query: "catalognumber:17092 institutioncode:LSUMZ" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Elephantidae" ; Times: 1
+	Query: "Caluromys derbianus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "myocastor coypus" ; Times: 8
+	Query: "Mammut" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 14
+	Query: "LSUMZ 25574" ; Times: 1
+	Query: "Chaetophractus type:specimen tissue:1" ; Times: 2
+	Query: "Tamias dorsalis type:specimen stateprovince:"Utah" tissue:1" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 2
+	Query: "Peromyscus gossypinus type:specimen stateprovince:"North Carolina"" ; Times: 1
+	Query: "country:"mexico" genus:coendou" ; Times: 5
+	Query: "Histiotus tissue:1" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia" ; Times: 1
+	Query: "Pteronotus personatus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 4
+	Query: "country:"Colombia" genus:Ateles class:Mammalia" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"virginia" (tissue) tissue:1" ; Times: 1
+	Query: "country:"mexico" genus:coendou year <= 2014" ; Times: 1
+	Query: "Chiroptera New Providence" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "chaetophractus tissue:1" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Chrotopterus" ; Times: 1
+	Query: "Macrotus waterhousii country:"Bahamas"" ; Times: 1
+	Query: "Ziphiidae" ; Times: 1
+	Query: "catalognumber:18314 institutioncode:LSUMZ" ; Times: 1
+	Query: "tamiasciurus type:specimen stateprovince:"washington" (tissue) tissue:1" ; Times: 1
+	Query: "class:Mammalia cyclopes" ; Times: 1
+	Query: "country:"bahamas" specificepithet:waterhousii genus:macrotus" ; Times: 1
+	Query: "Eligmodontia typus" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"Michigan" (tissue) tissue:1" ; Times: 1
+	Query: "lutra" ; Times: 2
+	Query: "Cyclopes" ; Times: 1
+	Query: "coendou country:"mexico" genus:coendou year >= 1000 year <= 2014" ; Times: 1
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "catalognumber:17611 institutioncode:LSUMZ" ; Times: 2
+	Query: "panthera tigris" ; Times: 5
+	Query: "country:"mexico" genus:coendou year >= 1800 year <= 2014" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 1
+	Query: "type:specimen genus:varecia" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Xenomys" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "chaetophractus villosus tissue:1" ; Times: 1
+	Query: "Crooked Chiroptera" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia institutioncode:LSUMZ AND (NOT West Virginia)" ; Times: 1
+	Query: "catalognumber:22326 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:prehensilis genus:Coendou tissue:1" ; Times: 2
+	Query: "lsumz 34847" ; Times: 2
+	Query: "tamiasciurus type:specimen stateprovince:"Newfoundland" (tissue) tissue:1" ; Times: 1
+	Query: "coendou year >= 1530 year <= 2014" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "coendou year >= 1930 year <= 2014" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "coendou country:"mexico"" ; Times: 25
+	Query: "Alouatta" ; Times: 6
+	Query: "alouatta seniculus" ; Times: 4
+	Query: "country:"japan" genus:talpa" ; Times: 4
+	Query: "Cyclopes type:specimen tissue:1" ; Times: 3
+	Query: "sciurillus pusillus" ; Times: 2
+	Query: "specificepithet:axis axis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 273 download events in this period)
+Total number of records downloaded: 5562 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5215
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 7
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-08 ; Times: 3
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 4
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 4
+	Date: 2014-08-18 ; Times: 6
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 2
+	Date: 2014-08-22 ; Times: 7
+	Date: 2014-08-25 ; Times: 2
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 4
+	Date: 2014-08-28 ; Times: 4
+	Date: 2014-08-29 ; Times: 2
+	Date: 2014-08-30 ; Times: 7
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 2
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Pteronotus davyi distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Chiroptera country:"Bahamas"" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Balantiopteryx plicata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Chiroptera Inagua" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Rhynchonycteris naso distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 4
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "tamiasciurus (tissue)" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "Chiroptera New Providence" ; Times: 1
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 923
+Total number of records retrieved from searches: 7223
+Number of download events that retrieved data from the resource: 257
+Total number of records downloaded: 42413
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 923
+Total number of records retrieved from searches: 7223
+Number of download events that retrieved data from the resource: 257
+Total number of records downloaded: 42413
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
