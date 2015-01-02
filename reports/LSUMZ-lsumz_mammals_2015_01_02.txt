@@ -1,0 +1,238 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 1547
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Colombia ; Times: 16
+	Country: Mexico ; Times: 24
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 89
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 18
+	Date: 2014-12-02 ; Times: 3
+	Date: 2014-12-03 ; Times: 10
+	Date: 2014-12-04 ; Times: 2
+	Date: 2014-12-05 ; Times: 4
+	Date: 2014-12-06 ; Times: 2
+	Date: 2014-12-07 ; Times: 2
+	Date: 2014-12-08 ; Times: 3
+	Date: 2014-12-09 ; Times: 16
+	Date: 2014-12-10 ; Times: 14
+	Date: 2014-12-11 ; Times: 17
+	Date: 2014-12-12 ; Times: 1
+	Date: 2014-12-13 ; Times: 2
+	Date: 2014-12-14 ; Times: 1
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 9
+	Date: 2014-12-17 ; Times: 20
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-22 ; Times: 5
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-27 ; Times: 2
+	Date: 2014-12-30 ; Times: 4
+	Date: 2014-12-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:couesi genus:oryzomys institutioncode:lsumz tissue:1" ; Times: 1
+	Query: "LSUMZ 2623" ; Times: 2
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "sturnira lsumz COSTA RICA" ; Times: 1
+	Query: "3 Km S Orotina" ; Times: 1
+	Query: "partida type:specimen" ; Times: 1
+	Query: "sturnira lsumz 3 Km S Orotina" ; Times: 1
+	Query: "genus:zygodontomys tissue:1" ; Times: 1
+	Query: "catalognumber:7796 institutioncode:lsumz" ; Times: 1
+	Query: "catalognumber:15696 institutioncode:lsumz" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys tissue:1" ; Times: 1
+	Query: "cebus capucinus" ; Times: 2
+	Query: "Canis rufus type:specimen" ; Times: 3
+	Query: "type:specimen county:"cochise" genus:spermophilus year >= 1942 year <= 1972" ; Times: 1
+	Query: "stateprovince:"tennessee" genus:tamias" ; Times: 2
+	Query: "coendou" ; Times: 1
+	Query: ""Didelphis virginiana" stateprovince:"Texas"" ; Times: 1
+	Query: "LSUMZ Mammals 15902" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 1
+	Query: "ochrotomys nuttalli tissue:1" ; Times: 2
+	Query: ""procyon lotor" stateprovince:"texas"" ; Times: 6
+	Query: "specificepithet:palustris genus:oryzomys institutioncode:lsumz" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "dinomys branickii" ; Times: 11
+	Query: "elephantidae" ; Times: 1
+	Query: "holochilus tissue:1" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "primate tissue:1" ; Times: 2
+	Query: "genus:oryzomys catalognumber:28350 institutioncode:lsumz tissue:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Kentucky" specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "catalognumber:16710 institutioncode:lsumz" ; Times: 2
+	Query: "isla partida type:specimen class:mammalia" ; Times: 1
+	Query: "stateprovince:"Alajuela" country:"Costa Rica" specificepithet:lilium genus:sturnira institutioncode:lsumz" ; Times: 1
+	Query: ""Spermophilus mexicanus" stateprovince:"texas"" ; Times: 1
+	Query: "country:"united states" genus:ziphius" ; Times: 2
+	Query: "specificepithet:palustris genus:oryzomys institutioncode:lsumz tissue:1" ; Times: 1
+	Query: "county:"perry" genus:peromyscus" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "county:"de soto" genus:mus" ; Times: 1
+	Query: "specificepithet:alfari genus:Sigmodontomys tissue:1" ; Times: 2
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "didelphis aurita" ; Times: 1
+	Query: "villa bernardo" ; Times: 1
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "county:"de soto" genus:peromyscus" ; Times: 2
+	Query: "Balaenoptera acutorostrata" ; Times: 15
+	Query: "sylvilagus brasiliensis" ; Times: 2
+	Query: "catalognumber:135 institutioncode:lsumz" ; Times: 1
+	Query: "perognathus longimembris type:specimen year >= 1990 year <= 2010" ; Times: 1
+	Query: "stateprovince:"puntarenas" country:"Costa Rica" specificepithet:lilium genus:sturnira institutioncode:lsumz" ; Times: 1
+	Query: "county:"perry" genus:peromyscus year >= 1966 year <= 1968" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "papio" ; Times: 1
+	Query: "Moloch tissue:1" ; Times: 2
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:onychomys year >= 1970 year <= 1970" ; Times: 1
+	Query: "LSUMZ Mammals 13364" ; Times: 1
+	Query: "type:specimen genus:Sciurus hastypestatus:1" ; Times: 1
+	Query: ""Cryptotis parva" stateprovince:"Texas"" ; Times: 2
+	Query: "county:"de soto" genus:oryzomys" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Tadarida county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "sturnira lsumz" ; Times: 1
+	Query: "catalognumber:18629 (Mammal)" ; Times: 1
+	Query: "genus:oryzomys institutioncode:lsumz tissue:1" ; Times: 1
+	Query: "stateprovince:"colorado" country:"United States" specificepithet:latrans genus:canis tissue:1" ; Times: 3
+	Query: "specificepithet:latrans genus:canis year >= 1970 tissue:1" ; Times: 3
+	Query: "mammalia county:"decatur" stateprovince:"tennessee"" ; Times: 1
+	Query: "LSUMZ 3220" ; Times: 1
+	Query: "mammalia county:"de soto" year >= 1972 year <= 1972" ; Times: 2
+	Query: "specificepithet:couesi genus:oryzomys institutioncode:lsumz" ; Times: 1
+	Query: "genus:ziphius" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "catalognumber:18629 (Mammalia)" ; Times: 1
+	Query: "(lsumz 2623)" ; Times: 1
+	Query: "stateprovince:"tlaxcala"" ; Times: 1
+	Query: "country:"United States" specificepithet:latrans genus:canis year >= 1950 tissue:1" ; Times: 2
+	Query: "LSUMZ 393" ; Times: 2
+	Query: "eira barbara" ; Times: 3
+	Query: "lsumz 2623" ; Times: 2
+	Query: "eira barbara eira barbara country:"mexico" (eira barbara) AND (eira barbara)" ; Times: 3
+	Query: "distance(location,geopoint(36.31512514748051,-15.556640625))<100000" ; Times: 1
+	Query: "(lsumz 2623 tissue)" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Plecotus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "sturnira lsumz 14 rd Km S La Gloria" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "stateprovince:"kentucky" institutioncode:lsumz" ; Times: 1
+	Query: "cebus capucinus year >= 1960 year <= 2014 tissue:1" ; Times: 1
+	Query: "thyroptera" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "scalopus county:"shelby" stateprovince:"tennessee"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 238 download events in this period)
+Total number of records downloaded: 3743 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3608
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 42
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 1
+	Date: 2014-12-02 ; Times: 1
+	Date: 2014-12-03 ; Times: 4
+	Date: 2014-12-04 ; Times: 4
+	Date: 2014-12-05 ; Times: 4
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-08 ; Times: 1
+	Date: 2014-12-09 ; Times: 5
+	Date: 2014-12-10 ; Times: 3
+	Date: 2014-12-15 ; Times: 2
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-17 ; Times: 2
+	Date: 2014-12-18 ; Times: 2
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-22 ; Times: 1
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-24 ; Times: 8
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:lynx" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "country:"United States" specificepithet:latrans genus:canis year >= 1950 tissue:1" ; Times: 1
+	Query: "holochilus tissue:1" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1975" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "molossus tissue:1" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "Zapus princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Ochotona mappable:1 tissue:1" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "county:"Cibola" stateprovince:"New Mexico"" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "type:specimen specificepithet:aquaticus genus:scalopus year >= 1975" ; Times: 1
+	Query: "thyroptera" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "muntiacus skull" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus year >= 1975" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1305
+Total number of records retrieved from searches: 11124
+Number of download events that retrieved data from the resource: 437
+Total number of records downloaded: 69124
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1305
+Total number of records retrieved from searches: 11124
+Number of download events that retrieved data from the resource: 437
+Total number of records downloaded: 69124
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
