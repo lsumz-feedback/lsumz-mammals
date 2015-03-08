@@ -1,0 +1,215 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 1935
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Colombia ; Times: 9
+	Country: France ; Times: 11
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 10
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-06 ; Times: 13
+	Date: 2015-02-09 ; Times: 3
+	Date: 2015-02-10 ; Times: 15
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 6
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 6
+	Date: 2015-02-20 ; Times: 9
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 6
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 8
+	Date: 2015-02-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys breviceps stateprovince:"Louisiana" tissue:1" ; Times: 5
+	Query: "Isthmomys pirrensis" ; Times: 2
+	Query: "Callicebus tissue:1" ; Times: 1
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 2
+	Query: "Dactylomys" ; Times: 1
+	Query: "type:specimen county:"Tompkins" stateprovince:"New York" specificepithet:Leucopus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:melanops genus:scolomys" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "genus:bradypus tissue:1" ; Times: 4
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "geomys breviceps stateprovince:"Louisiana"" ; Times: 5
+	Query: "wissahickon" ; Times: 1
+	Query: "specificepithet:limatus genus:phyllotis" ; Times: 1
+	Query: "glaucomys sabrinus west virginia" ; Times: 2
+	Query: "genus:Zygodontomys tissue:1" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:holochilus" ; Times: 1
+	Query: "Carollia subrufa colima" ; Times: 1
+	Query: "typhlops tissue:1" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:alouatta" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 2
+	Query: "reithrodontomys musseri" ; Times: 1
+	Query: "leopardus pardalis country:"Mexico"" ; Times: 1
+	Query: "myotis lucifugus stateprovince:"Pennsylvania" year >= 1600 year <= 1959" ; Times: 1
+	Query: ""Tremarctos ornatus" mappable:1" ; Times: 1
+	Query: "geomys county:"union" stateprovince:"Louisiana"" ; Times: 1
+	Query: "LSUMZ Mammals 8905" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Cynomys" ; Times: 1
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "stateprovince:"Crooked Island" class:Mammalia" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Sigmodontomys tissue:1" ; Times: 1
+	Query: "specificepithet:talamancae genus:Oryzomys" ; Times: 1
+	Query: "sciurillus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "caenolestes tissue:1" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Saguinus" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "tenrec" ; Times: 1
+	Query: "country:"Peru" genus:alouatta" ; Times: 4
+	Query: "specificepithet:abrasus (Molossidae)" ; Times: 2
+	Query: "specificepithet:abrasus (molossidae)" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "genus:Histiotus tissue:1" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:callicebus institutioncode:lsumz" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:ateles institutioncode:LSUMZ" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "LSUMZ Mammals 9270" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Saguinus institutioncode:lsumz" ; Times: 1
+	Query: "panthera onca" ; Times: 7
+	Query: "specificepithet:alfaroi genus:Oryzomys year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:bradypus" ; Times: 3
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "stateprovince:"Michigan" genus:Glaucomys tissue:1" ; Times: 2
+	Query: "stateprovince:"loreto" country:"peru" genus:aotus" ; Times: 1
+	Query: "type:specimen stateprovince:"arkansas" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "Callithrix tissue:1" ; Times: 1
+	Query: ""geomys" stateprovince:"Louisiana"" ; Times: 1
+	Query: "genus:scolomys" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:Princeps genus:Zapus" ; Times: 1
+	Query: "Regina tissue:1" ; Times: 2
+	Query: "class:Mammalia Homo sapiens" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "type:specimen stateprovince:"kentucky" specificepithet:striatus genus:Tamias year >= 1960 year <= 2010" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "country:"Mexico" genus:Eira" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 326 download events in this period)
+Total number of records downloaded: 10405 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 10103
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys breviceps stateprovince:"Louisiana" tissue:1" ; Times: 1
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "liomys irroratus stateprovince:"oaxaca" country:"Mexico"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Canis latrans country:"Mexico" mappable:1" ; Times: 1
+	Query: "Macrotus waterhousii type:specimen (Bahama OR Bahamas)" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Bastrop county" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Glaucomys tissue:1" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "Sciurus niger tissue:1" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "stateprovince:"Valle del cauca" country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1416
+Total number of records retrieved from searches: 13059
+Number of download events that retrieved data from the resource: 186
+Total number of records downloaded: 26013
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1801
+Total number of records retrieved from searches: 14738
+Number of download events that retrieved data from the resource: 623
+Total number of records downloaded: 95137
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
