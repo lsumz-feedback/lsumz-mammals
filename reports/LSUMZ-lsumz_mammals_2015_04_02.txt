@@ -1,0 +1,196 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1766
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 20
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 33
+	Country: Venezuela ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 3
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 7
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 8
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-17 ; Times: 9
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 12
+	Date: 2015-03-30 ; Times: 1
+	Date: 2015-03-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dasypus institutioncode:LSUMZ" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Proechimys" ; Times: 2
+	Query: "specificepithet:abrasus genus:molossops" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "sphaeronycteris (tissue) tissue:1" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "echimyidae stateprovince:"loreto" country:"peru"" ; Times: 1
+	Query: "specificepithet:gymnonotus genus:Pteronotus" ; Times: 1
+	Query: "catalognumber:28347 institutioncode:lsumz" ; Times: 2
+	Query: "catalognumber:14663 institutioncode:lsumz" ; Times: 1
+	Query: "catalognumber:1012 institutioncode:lsumz" ; Times: 2
+	Query: "CALUROMYS LANATUS" ; Times: 4
+	Query: "monodelphis adusta" ; Times: 1
+	Query: "catalognumber:31174 institutioncode:lsumz" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Blarina tissue:1" ; Times: 1
+	Query: "catalognumber:15762 institutioncode:lsumz" ; Times: 1
+	Query: "specificepithet:notatus genus:thomasomys" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys tissue:1" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys tissue:1" ; Times: 1
+	Query: "LSUMZ 31429" ; Times: 1
+	Query: "genus:dasypus institutioncode:lsumz" ; Times: 8
+	Query: "sylvilagus dicei" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "geomys county:"morehouse" stateprovince:"louisiana"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Pteronotus parnellii country:"Cuba"" ; Times: 1
+	Query: "aotus tissue:1" ; Times: 1
+	Query: "catalognumber:7157 institutioncode:lsumz" ; Times: 1
+	Query: "geomys county:"union" stateprovince:"louisiana"" ; Times: 1
+	Query: "myotis austroriparius louisiana tissue:1" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "sphaeronycteris" ; Times: 1
+	Query: "CALUROMYS philander" ; Times: 5
+	Query: "catalognumber:31175 institutioncode:lsumz" ; Times: 2
+	Query: "MICOUREUS DEMERARAE" ; Times: 1
+	Query: "catalognumber:19240 institutioncode:lsumz" ; Times: 1
+	Query: "Pteronotus parnellii country:"Puerto Rico"" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "catalognumber:29187 institutioncode:lsumz" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "female (Natalus) tissue:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Dactylomys" ; Times: 1
+	Query: "catalognumber:26844 institutioncode:lsumz" ; Times: 1
+	Query: "Wissahickon" ; Times: 1
+	Query: "eutamias" ; Times: 1
+	Query: "stateprovince:"loreto" country:"peru" genus:Makalata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Cryptotis tissue:1" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+	Query: "Spermophilus tridecemlineatus Ohio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 298 download events in this period)
+Total number of records downloaded: 6793 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6130
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-10 ; Times: 2
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-16 ; Times: 6
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "mammalia stateprovince:"QUERETARO" country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "sciurus carolinensis type:specimen year <= 2015 tissue:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Tennessee"" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Sciurus aureogaster tissue:1" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"South Carolina"" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "Colima mammals" ; Times: 1
+	Query: "mammalia stateprovince:"guanajuato" country:"mexico" year <= 2015 mappable:1" ; Times: 2
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "genus:Sciurus (black OR melan* OR dark) tissue:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1496
+Total number of records retrieved from searches: 14825
+Number of download events that retrieved data from the resource: 225
+Total number of records downloaded: 32806
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1881
+Total number of records retrieved from searches: 16504
+Number of download events that retrieved data from the resource: 662
+Total number of records downloaded: 101930
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
