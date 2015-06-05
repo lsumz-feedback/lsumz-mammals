@@ -1,0 +1,325 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 216
+Number of records retrieved in searches: 2543
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 11
+	Country: Costa Rica ; Times: 24
+	Country: France ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 49
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 7
+	Date: 2015-05-06 ; Times: 9
+	Date: 2015-05-07 ; Times: 5
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-09 ; Times: 6
+	Date: 2015-05-10 ; Times: 25
+	Date: 2015-05-13 ; Times: 8
+	Date: 2015-05-14 ; Times: 5
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-17 ; Times: 25
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 6
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 14
+	Date: 2015-05-22 ; Times: 6
+	Date: 2015-05-23 ; Times: 11
+	Date: 2015-05-25 ; Times: 8
+	Date: 2015-05-26 ; Times: 36
+	Date: 2015-05-27 ; Times: 14
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-30 ; Times: 9
+	Date: 2015-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:kappleri genus:Peropteryx" ; Times: 2
+	Query: "30758" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "Lonchorhina aurita country:"Mexico" mappable:1" ; Times: 1
+	Query: "genus:colobus" ; Times: 1
+	Query: "Liomys soto la marina tamaulipas" ; Times: 1
+	Query: "Orthogeomys cavator" ; Times: 4
+	Query: "Kisatchie class:Mammalia" ; Times: 1
+	Query: "catalognumber:29043 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:chrysocomus genus:Bunomys tissue:1" ; Times: 1
+	Query: "LSUMZ stateprovince:"Mississippi" class:Mammalia tissue:1" ; Times: 1
+	Query: "moravia cartago" ; Times: 3
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Sigmodon soto la marina tamaulipas" ; Times: 1
+	Query: "country:"United States" specificepithet:carolinensis genus:Blarina tissue:1" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 4
+	Query: "county:"Tunica" stateprovince:"Mississippi"" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "county:"Vernon" stateprovince:"Louisiana" class:Mammalia tissue:1" ; Times: 2
+	Query: "Ateles fusciceps" ; Times: 1
+	Query: "genus:bradypus" ; Times: 2
+	Query: "LSUMZ 2904" ; Times: 1
+	Query: "geomys arenarius tissue:1" ; Times: 2
+	Query: "Rhynchonycteris naso stateprovince:"Veracruz" country:"Mexico" mappable:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: ""Orthogeomys hispidus"" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(21.125497636606276,-70.927734375))<100000" ; Times: 1
+	Query: "LASIURUS EGA country:"MEXICO"" ; Times: 2
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "Didelphis institutioncode:LSUMZ" ; Times: 2
+	Query: "stateprovince:"Louisiana" class:Mammalia tissue:1" ; Times: 7
+	Query: "Lycalopex" ; Times: 7
+	Query: "stateprovince:"California" country:"United States" genus:Ondatra year >= 1950" ; Times: 1
+	Query: "Peru Callicebus" ; Times: 1
+	Query: "LSUMZ stateprovince:"Georgia" class:Mammalia tissue:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:palliata genus:Alouatta" ; Times: 1
+	Query: "county:"Vernon" stateprovince:"Louisiana" class:Mammalia" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "LSUMZ stateprovince:"Montana" class:Mammalia" ; Times: 1
+	Query: "country:"Ecuador" genus:Cormura" ; Times: 3
+	Query: "specificepithet:dominator genus:Paruromys" ; Times: 1
+	Query: "Cervus unicolor mappable:1" ; Times: 1
+	Query: "stateprovince:"Louisiana" country:"United States" specificepithet:parva genus:Cryptotis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:cryptotis tissue:1" ; Times: 1
+	Query: "specificepithet:chrysocomus genus:Bunomys" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "stateprovince:"Mississippi" genus:Peromyscus tissue:1" ; Times: 1
+	Query: "Lasiurus cinereus country:"Mexico" mappable:1" ; Times: 1
+	Query: "puma soto la marina tamaulipas" ; Times: 1
+	Query: "atenas" ; Times: 3
+	Query: "country:"Mexico" specificepithet:geoffroyi genus:Ateles" ; Times: 1
+	Query: "sylvilagus soto la marina tamaulipas" ; Times: 1
+	Query: "peromyscus soto la marina tamaulipas" ; Times: 2
+	Query: "genus:Bunomys" ; Times: 1
+	Query: "LSUMZ 14076" ; Times: 1
+	Query: "LSUMZ stateprovince:"Alabama" class:Mammalia" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Hemicentetes" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 3
+	Query: "Enchisthenes hartii" ; Times: 6
+	Query: "Diaemus youngi stateprovince:"Tabasco" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:Taeromys" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "ateles geoffroyi veracruz" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 3
+	Query: "Chrotopterus auritus stateprovince:"veracruz" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Cervus unicolor" ; Times: 1
+	Query: "vieja institutioncode:LSUMZ" ; Times: 1
+	Query: "chiroptera Baja California isla" ; Times: 2
+	Query: "Noctilio leporinus country:"Mexico" mappable:1" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "jerez zacatecas" ; Times: 1
+	Query: "Rhynchonycteris naso stateprovince:"Veracruz" country:"Mexico"" ; Times: 1
+	Query: "LSUMZ stateprovince:"Colorado" class:Mammalia" ; Times: 2
+	Query: "afarensis" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "Notoryctemorphia" ; Times: 1
+	Query: "Eumops bonariensis country:"Mexico"" ; Times: 1
+	Query: "Erythrocebus patas institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ stateprovince:"Georgia" class:Mammalia" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 3
+	Query: "specificepithet:dominator genus:Paruromys tissue:1" ; Times: 1
+	Query: "Pipistrellus subflavus country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Peromyscus soto la marina tamaulipas" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "sylvilagus dicei" ; Times: 21
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "stateprovince:"Louisiana" country:"United States" genus:Blarina tissue:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "country:"United States" specificepithet:parva genus:Cryptotis tissue:1" ; Times: 1
+	Query: "Eumops underwoodi arizona" ; Times: 2
+	Query: "Dinomyidae" ; Times: 1
+	Query: "Diplomys labilis" ; Times: 3
+	Query: "lasiurus ega stateprovince:"chiapas" country:"MEXICO"" ; Times: 1
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 19
+	Query: "Neacomys" ; Times: 1
+	Query: "chiroptera baja california isla" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Neofelis" ; Times: 1
+	Query: "LSUMZ stateprovince:"Colorado" class:Mammalia tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 976 download events in this period)
+Total number of records downloaded: 59894 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 32183
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 8
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 7
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-17 ; Times: 2
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 27
+	Date: 2015-05-22 ; Times: 14
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 10
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:kappleri genus:Peropteryx" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "country:"Mexico" specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "type:specimen specificepithet:brevicauda genus:blarina tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Peromyscus megalops" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "stateprovince:"guanajuato" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "country:"Mexico" specificepithet:palliata genus:Alouatta" ; Times: 2
+	Query: "stateprovince:"michoacan" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "peromyscus guatemalensis" ; Times: 1
+	Query: "peromyscus aztecus" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "genus:Bunomys" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Allyn" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "type:specimen specificepithet:megalotis genus:reithrodontomys tissue:1" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "jerez zacatecas" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 4
+	Query: "Marmosops tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "uroderma bilobatum mappable:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:geoffroyi genus:Ateles" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Dinomyidae" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "stateprovince:"queretaro" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1712
+Total number of records retrieved from searches: 17368
+Number of download events that retrieved data from the resource: 329
+Total number of records downloaded: 92700
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2097
+Total number of records retrieved from searches: 19047
+Number of download events that retrieved data from the resource: 766
+Total number of records downloaded: 161824
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
