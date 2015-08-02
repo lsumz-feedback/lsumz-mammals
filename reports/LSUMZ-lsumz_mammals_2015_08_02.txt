@@ -1,0 +1,455 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 399
+Number of records retrieved in searches: 4133
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 79
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 7
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 65
+	Country: Panama ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 190
+	Country: Unknown ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 11
+	Date: 2015-07-03 ; Times: 7
+	Date: 2015-07-04 ; Times: 14
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 10
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-08 ; Times: 11
+	Date: 2015-07-09 ; Times: 19
+	Date: 2015-07-10 ; Times: 33
+	Date: 2015-07-11 ; Times: 16
+	Date: 2015-07-12 ; Times: 7
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 58
+	Date: 2015-07-16 ; Times: 10
+	Date: 2015-07-17 ; Times: 4
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 7
+	Date: 2015-07-20 ; Times: 5
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-23 ; Times: 8
+	Date: 2015-07-24 ; Times: 11
+	Date: 2015-07-25 ; Times: 6
+	Date: 2015-07-26 ; Times: 9
+	Date: 2015-07-27 ; Times: 76
+	Date: 2015-07-28 ; Times: 18
+	Date: 2015-07-29 ; Times: 12
+	Date: 2015-07-30 ; Times: 14
+	Date: 2015-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Noctilio institutioncode:LSUMZ year >= 1975 year <= 2015" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Yarinacocha stateprovince:"loreto" country:"peru"" ; Times: 2
+	Query: "genus:Dasyprocta institutioncode:LSUMZ" ; Times: 5
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: ""eptesicus furinalis" country:"Mexico"" ; Times: 2
+	Query: "22774" ; Times: 1
+	Query: "bradypus variegatus country:"Costa Rica"" ; Times: 1
+	Query: "genus:Hydrochoerus institutioncode:LSUMZ" ; Times: 6
+	Query: "country:"mexico" specificepithet:mexicanus genus:coendou" ; Times: 1
+	Query: "panthera onca onca" ; Times: 1
+	Query: "myotis volans country:"mexico"" ; Times: 2
+	Query: "genus:Zapus institutioncode:LSUMZ" ; Times: 3
+	Query: "Atelidae tissue:1" ; Times: 3
+	Query: "Rodentia country:"Kuwait"" ; Times: 5
+	Query: "genus:Alouatta year >= 1975 year <= 2015" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "Mustelidae institutioncode:LSUMZ year >= 1975 year <= 2015 tissue:1" ; Times: 3
+	Query: "Chaetophractus" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "specificepithet:devius genus:Oryzomys institutioncode:LSUMZ" ; Times: 1
+	Query: "geomys stateprovince:"Arkansas"" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Furipteridae year >= 1975 year <= 2015" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex tissue:1" ; Times: 1
+	Query: "country:"Kuwait" class:Mammalia" ; Times: 8
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Viverridae" ; Times: 1
+	Query: "Cebidae tissue:1" ; Times: 3
+	Query: "sorex wisconsin" ; Times: 2
+	Query: ""lasiurus borealis" country:"Mexico"" ; Times: 1
+	Query: "genus:Lagidium institutioncode:LSUMZ" ; Times: 1
+	Query: ""lasiurus intermedius" country:"Mexico"" ; Times: 1
+	Query: "genus:Caluromys institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 1
+	Query: "Thyropteridae year >= 1975 year <= 2015" ; Times: 1
+	Query: "mappable:1 tissue:1 distance(location,geopoint(20.13847031245115,-100.810546875))<100000" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "33125" ; Times: 1
+	Query: "genus:Hydrochoerus" ; Times: 1
+	Query: "country:"bahamas" specificepithet:fuscus genus:eptesicus" ; Times: 2
+	Query: "country:"Ecuador" specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "soto la marina Liomys irroratus" ; Times: 1
+	Query: "dinomys branickii" ; Times: 1
+	Query: "Mammalia country:"Kuwait"" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Tamias quadrivittatus utah" ; Times: 2
+	Query: "specificepithet:semispinosus genus:Proechimys tissue:1" ; Times: 1
+	Query: ""Equus grevyi"" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus tissue:1" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "chibchanomys" ; Times: 1
+	Query: "Cyclopedidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bonariensis genus:Eumops" ; Times: 1
+	Query: "south america specificepithet:virginianus genus:odocoileus" ; Times: 1
+	Query: "genus:Bunomys institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Myoprocta institutioncode:LSUMZ" ; Times: 7
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "specificepithet:branickii genus:Dinomys institutioncode:LSUMZ" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:flavescens genus:Perognathus" ; Times: 1
+	Query: "genus:Caenolestes institutioncode:LSUMZ tissue:1" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 9
+	Query: "trichopus" ; Times: 2
+	Query: "Otariidae institutioncode:LSUMZ year >= 1975 year <= 2015" ; Times: 2
+	Query: ""artibeus aztecus" country:"mexico"" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:devius genus:Oryzomys tissue:1" ; Times: 1
+	Query: ""diphylla ecaudata" country:"mexico"" ; Times: 1
+	Query: "genus:Myocastor institutioncode:LSUMZ year >= 1975 year <= 2015 tissue:1" ; Times: 1
+	Query: "mammoth cave" ; Times: 1
+	Query: "Myrmecophagidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "geomys breviceps county:"union"" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: ""nyctinomops aurispinosus" country:"Mexico"" ; Times: 1
+	Query: "genus:cyclopes" ; Times: 1
+	Query: "soto la marina rodentia mammalia" ; Times: 2
+	Query: "Cebus tissue:1" ; Times: 2
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Mammalia" ; Times: 1
+	Query: ""Sciurus carolinensis" tissue:1" ; Times: 1
+	Query: ""eumops glaucinus" country:"Mexico"" ; Times: 1
+	Query: "country:"Bahamas" genus:Lasiurus" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "soto la marina tamaulipas rodentia mammalia" ; Times: 2
+	Query: "26305" ; Times: 1
+	Query: "tylomys alcohol type:specimen" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex institutioncode:LSUMZ" ; Times: 1
+	Query: "soto la marina mammalia" ; Times: 3
+	Query: ""lasiurus ega" country:"Mexico"" ; Times: 1
+	Query: "neotoma cinerea utah" ; Times: 3
+	Query: "geomys breviceps stateprovince:"Louisiana"" ; Times: 5
+	Query: "specificepithet:venusta genus:Glironia" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "neotoma lepida new mexico" ; Times: 1
+	Query: "Lycalopex gymnocercus type:specimen (skull)" ; Times: 1
+	Query: "geomys louisiana" ; Times: 7
+	Query: ""platyrrhinus helleri" country:"mexico"" ; Times: 1
+	Query: "Taeromys punicans" ; Times: 1
+	Query: "PTEROPODIDAE year >= 2012 year <= 2015" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 2
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "cebus albifrons" ; Times: 2
+	Query: "tylomys" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "genus:Bunomys" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "soto la marina lagomorpha" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+	Query: ""Chiroderma villosum" country:"Mexico"" ; Times: 1
+	Query: "Pan troglodytes tissue:1" ; Times: 2
+	Query: "Antilocapridae institutioncode:LSUMZ year >= 1975 year <= 2015" ; Times: 1
+	Query: ""molossus molossus" country:"Mexico"" ; Times: 1
+	Query: "geomys breviceps stateprovince:"Arkansas"" ; Times: 1
+	Query: "oryx" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "soto la marina tamaulipas mammalia" ; Times: 7
+	Query: "Didelphis marsupialis country:"Costa Rica"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicanus genus:coendou" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "genus:trachops tissue:1" ; Times: 37
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "genus:Cratogeomys institutioncode:LSUMZ" ; Times: 2
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 2
+	Query: "Neusticomys" ; Times: 2
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "Canis rufus" ; Times: 3
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "Pitheciidae tissue:1" ; Times: 1
+	Query: "soto la marina carnivora mammalia" ; Times: 1
+	Query: "PTEROPODIDAE year >= 2013 year <= 2015" ; Times: 1
+	Query: "specificepithet:handleyi genus:Lonchophylla" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 3
+	Query: "fort bend county texas" ; Times: 1
+	Query: "neusticomys" ; Times: 1
+	Query: "genus:Lestoros institutioncode:LSUMZ" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: ""pipistrellus subflavus" country:"Mexico"" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 4
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "genus:Caenolestes institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Castor institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Procyonidae institutioncode:LSUMZ year >= 1975 year <= 2015 tissue:1" ; Times: 1
+	Query: "Procyonidae institutioncode:LSUMZ year >= 1975 year <= 2015" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" genus:Neotoma" ; Times: 2
+	Query: "Rio Paca" ; Times: 1
+	Query: "Anoura cultrata" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "myotis stateprovince:"oaxaca"" ; Times: 12
+	Query: "femorosaccus country:"mexico"" ; Times: 1
+	Query: ""diaemus youngi" country:"mexico"" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "genus:Dromiciops institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Napaeozapus institutioncode:LSUMZ" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 2
+	Query: "specificepithet:harringtoni genus:Taterillus" ; Times: 1
+	Query: "genus:Myocastor institutioncode:LSUMZ year >= 1975 year <= 2015" ; Times: 2
+	Query: "lorisidae type:specimen" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: ""Canis rufus"" ; Times: 1
+	Query: "genus:Castor institutioncode:LSUMZ" ; Times: 1
+	Query: "perognathus flavescens utah" ; Times: 3
+	Query: "stateprovince:"texas" genus:liomys year >= 1995 year <= 2015" ; Times: 6
+	Query: "soto la marina puma concolor" ; Times: 1
+	Query: "catalognumber:17101 institutioncode:LSUMZ" ; Times: 1
+	Query: "soto la marina Sylvilagus floridanus" ; Times: 2
+	Query: "country:"mexico" specificepithet:volans genus:glaucomys" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Thomasomys" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "myotis velifer stateprovince:"oaxaca"" ; Times: 1
+	Query: "genus:Coendou" ; Times: 1
+	Query: "Bradypodidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "geomys breviceps county:"morehouse"" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Talpidae institutioncode:LSUMZ year >= 1975 year <= 2015 tissue:1" ; Times: 1
+	Query: "soto la marina FELIDAE" ; Times: 1
+	Query: "genus:Cuniculus institutioncode:LSUMZ" ; Times: 4
+	Query: "soto la marina Neotoma micropus" ; Times: 2
+	Query: "Geomys breviceps" ; Times: 1
+	Query: ""plecotus townsendii" country:"Mexico"" ; Times: 1
+	Query: ""micronycteris megalotis" country:"mexico"" ; Times: 1
+	Query: "genus:Trachops tissue:1" ; Times: 40
+	Query: "genus:Alouatta AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 3
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 149 (out of 1084 download events in this period)
+Total number of records downloaded: 30123 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17465
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 83
+	Country: Panama ; Times: 6
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 6
+	Date: 2015-07-09 ; Times: 8
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 6
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 4
+	Date: 2015-07-24 ; Times: 22
+	Date: 2015-07-25 ; Times: 12
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 12
+	Date: 2015-07-28 ; Times: 20
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 13
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: ""eptesicus furinalis" country:"Mexico"" ; Times: 4
+	Query: ""myotis fortidens" country:"mexico"" ; Times: 1
+	Query: "bradypus variegatus country:"Costa Rica"" ; Times: 1
+	Query: ""myotis thysanodes" country:"Mexico"" ; Times: 1
+	Query: "country:"mexico" specificepithet:mexicanus genus:coendou" ; Times: 1
+	Query: ""pipistrellus hesperus" country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicana genus:Cryptotis" ; Times: 1
+	Query: ""sturnira lilium" country:"mexico"" ; Times: 1
+	Query: ""mormoops megalophylla" country:"Mexico"" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: ""sturnira ludovici" country:"mexico"" ; Times: 1
+	Query: ""artibeus jamaicensis" country:"Mexico"" ; Times: 1
+	Query: ""lasiurus borealis" country:"Mexico"" ; Times: 1
+	Query: ""Sciurus niger" tissue:1" ; Times: 1
+	Query: ""tadarida brasiliensis" country:"Mexico"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: ""saccopteryx bilineata" country:"mexico"" ; Times: 1
+	Query: "dinomys branickii" ; Times: 1
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: ""balantiopteryx plicata" country:"Mexico"" ; Times: 1
+	Query: ""myotis californicus" country:"mexico"" ; Times: 1
+	Query: "country:"mexico" specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "country:"mexico" specificepithet:volans genus:glaucomys" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bonariensis genus:Eumops" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: ""carollia perspicillata" country:"Mexico"" ; Times: 1
+	Query: ""artibeus aztecus" country:"mexico"" ; Times: 1
+	Query: "lonchophylla hesperia" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: ""diphylla ecaudata" country:"mexico"" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "chiroptera stateprovince:"oaxaca"" ; Times: 1
+	Query: ""Pteronotus personatus" country:"mexico"" ; Times: 3
+	Query: ""Leptonycteris nivalis" country:"Mexico"" ; Times: 1
+	Query: "country:"mexico" specificepithet:mexicana genus:Choeronycteris" ; Times: 1
+	Query: ""Antrozous pallidus" country:"Mexico"" ; Times: 1
+	Query: ""Sciurus carolinensis" tissue:1" ; Times: 2
+	Query: ""eumops glaucinus" country:"Mexico"" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: ""Glossophaga soricina" country:"Mexico"" ; Times: 2
+	Query: ""lasiurus ega" country:"Mexico"" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Lycalopex gymnocercus type:specimen (skull)" ; Times: 1
+	Query: ""micronycteris megalotis" country:"mexico"" ; Times: 1
+	Query: ""rhogeessa parvula" country:"Mexico"" ; Times: 1
+	Query: ""Pteronotus davyi" country:"mexico"" ; Times: 1
+	Query: ""leptonycteris curasoae" country:"mexico"" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "chibchanomys" ; Times: 1
+	Query: "genus:Trachops tissue:1" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: ""nycticeius humeralis" country:"Mexico"" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: ""Chiroderma villosum" country:"Mexico"" ; Times: 1
+	Query: ""molossus molossus" country:"Mexico"" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: ""artibeus lituratus" country:"Mexico"" ; Times: 1
+	Query: ""carollia brevicauda" country:"Mexico"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: ""Centurio senex" country:"Mexico"" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: ""Choeronycteris mexicana" country:"Mexico"" ; Times: 1
+	Query: "PTEROPODIDAE year >= 2013 year <= 2015" ; Times: 1
+	Query: ""san marcos" genus:peromyscus" ; Times: 1
+	Query: ""eptesicus fuscus" country:"Mexico"" ; Times: 5
+	Query: ""Nyctinomops femorosaccus" country:"mexico"" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: ""platyrrhinus helleri" country:"mexico"" ; Times: 1
+	Query: ""pipistrellus subflavus" country:"Mexico"" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Didelphis marsupialis country:"Costa Rica"" ; Times: 1
+	Query: ""plecotus townsendii" country:"Mexico"" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 1
+	Query: ""lasiurus cinereus" country:"Mexico"" ; Times: 1
+	Query: ""Pteronotus parnellii" country:"mexico"" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "stateprovince:"texas" genus:liomys year >= 1995 year <= 2015" ; Times: 2
+	Query: "Oligoryzomys fulvescens country:"Costa Rica"" ; Times: 1
+	Query: ""natalus stramineus" country:"Mexico"" ; Times: 1
+	Query: ""Uroderma bilobatum" country:"Mexico"" ; Times: 1
+	Query: ""myotis velifer" country:"Mexico"" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: ""molossus ater" country:"Mexico"" ; Times: 1
+	Query: ""balantiopteryx io" country:"Mexico"" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: ""Anoura geoffroyi" country:"Mexico"" ; Times: 1
+	Query: "Anoura cultrata" ; Times: 1
+	Query: ""artibeus toltecus" country:"mexico"" ; Times: 2
+	Query: ""artibeus phaeotis" country:"mexico"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2369
+Total number of records retrieved from searches: 26126
+Number of download events that retrieved data from the resource: 570
+Total number of records downloaded: 167697
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2754
+Total number of records retrieved from searches: 27805
+Number of download events that retrieved data from the resource: 1007
+Total number of records downloaded: 236821
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
