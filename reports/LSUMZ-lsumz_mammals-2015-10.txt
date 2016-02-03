@@ -1,0 +1,307 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 1937
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 126
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-17 ; Times: 5
+	Date: 2015-10-14 ; Times: 7
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 18
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-18 ; Times: 3
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 15
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 17
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 4
+	Date: 2015-10-24 ; Times: 6
+	Date: 2015-10-23 ; Times: 10
+	Date: 2015-10-22 ; Times: 6
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 6
+	Date: 2015-10-05 ; Times: 12
+	Date: 2015-10-07 ; Times: 42
+	Date: 2015-10-06 ; Times: 7
+	Date: 2015-10-01 ; Times: 34
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "california state university chico" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "Kisatchie National Forest" ; Times: 1
+	Query: "Odocoileus virginianus and texas" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "THOMOMYS NAYARENSIS" ; Times: 2
+	Query: "15205" ; Times: 1
+	Query: "class:Mammalia county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "LSUMZ 25478 genus:STURNIRA" ; Times: 1
+	Query: "felidae genus:leopardus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "seniculus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "class:Mammalia county:&#34;Rapides&#34;" ; Times: 2
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:barbara genus:Eira institutioncode:LSUMZ" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 3
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "Heterocephalus tissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 67
+	Query: "megasorex gigas" ; Times: 4
+	Query: "procyon lotor type:specimen (skin) distance(location,geopoint(38.788345355085625,-121.728515625))&lt;100000" ; Times: 1
+	Query: "tamandua mexicana MEXICO" ; Times: 1
+	Query: "gbifdatasetid:847e2306-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "herpailurus yaguarondi mexico" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Mammalia county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34; tissue:1" ; Times: 2
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 11
+	Query: "cabassous" ; Times: 1
+	Query: "felidae tabasco" ; Times: 1
+	Query: "seniculus peru" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Vernon&#34; stateprovince:&#34;Louisiana&#34; tissue:1" ; Times: 1
+	Query: "Odocoileus virginianus and georgia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Texas&#34; (skin)" ; Times: 1
+	Query: "lincoln county washington rodentia" ; Times: 1
+	Query: "Kisatchie institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Odocoileus virginianus and mississippi" ; Times: 1
+	Query: "puma concolor potosi" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "class:Mammalia county:&#34;Natchitoches&#34;" ; Times: 5
+	Query: "euderma maculatum" ; Times: 2
+	Query: "22250" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "eric lee" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "jim hogg county" ; Times: 1
+	Query: "Pteronotus tissue:1" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "SCIURUS DEPPEI VERACRUZ" ; Times: 1
+	Query: "oryzomys albigularis" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 6
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "felidae genus:Lynx family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "Kisatchie National Forest institutioncode:LSUMZ" ; Times: 1
+	Query: "liverpool limon costa rica" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 3
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "pecari tajacu belize" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2003 year &lt;= 2004" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "felidae specificepithet:CONCOLOR genus:PUMA family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "class:Mammalia county:&#34;Rapides&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Odocoileus virginianus and washington" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Genetta" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "lycalopex" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 8
+	Query: "Leopardus wiedii" ; Times: 4
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Louisiana&#34; (skin)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Vernon&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 institutioncode:LSUMZ tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 823 download events in this period)
+Total number of records downloaded: 5498
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 3
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 52
+	Country: Chile ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 12
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 4
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 10
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 14
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "uganda" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "pecari tajacu belize" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Pteronotus tissue:1" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "genus:Puma stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "puma concolor potosi" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "ovis aries" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+
+
+End of report.
