@@ -1,0 +1,227 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 3024
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 10
+	Country: Indonesia ; Times: 3
+	Country: France ; Times: 5
+	Country: United States ; Times: 109
+	Country: Colombia ; Times: 9
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-08 ; Times: 5
+	Date: 2016-02-18 ; Times: 9
+	Date: 2016-02-19 ; Times: 17
+	Date: 2016-02-12 ; Times: 9
+	Date: 2016-02-10 ; Times: 7
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-15 ; Times: 4
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-28 ; Times: 9
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-26 ; Times: 7
+	Date: 2016-02-25 ; Times: 8
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-03 ; Times: 11
+	Date: 2016-02-02 ; Times: 8
+	Date: 2016-02-05 ; Times: 7
+	Date: 2016-02-04 ; Times: 23
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-06 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "lestoros" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 2
+	Query: "chironectes" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "louisiana union" ; Times: 4
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "mammals coahuila" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "class:mammalia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 3
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "genus:Bradypus country:&#34;peru&#34;" ; Times: 9
+	Query: "genus:ototylomys stateprovince:&#34;toledo&#34; country:&#34;belize&#34;" ; Times: 2
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Haeromys" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Cynomys type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "novemcinctus mappable:1 tissue:1" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "county:&#34;Johnson&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "phylloderma" ; Times: 4
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 4
+	Query: "locality:Dry Prong county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "specificepithet:ludovici genus:Sturnira stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:33310 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "mississippi yazoo" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "Tremarctos ornatus mappable:1" ; Times: 6
+	Query: "galictis vittata" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR ethanol OR alcohol) mappable:1" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "Dermoptera" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "Crocidura institutioncode:LSUMZ" ; Times: 1
+	Query: "eira barbara guerrero" ; Times: 1
+	Query: "Didelphis marsupialis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:canis institutioncode:LSUMZ" ; Times: 6
+	Query: "callicebus" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 5
+	Query: "panthera onca" ; Times: 5
+	Query: "genus:ototylomys stateprovince:&#34;cayo&#34; country:&#34;belize&#34;" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "class:Mammalia locality:Dry Prong county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "mammoth cave" ; Times: 2
+	Query: "genus:inia" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "33755" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cynomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 2
+	Query: "Conepatus leuconotus type:specimen" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 512 download events in this period)
+Total number of records downloaded: 1079
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 18
+	Country: United States ; Times: 55
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 8
+	Date: 2016-02-19 ; Times: 9
+	Date: 2016-02-12 ; Times: 6
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-04 ; Times: 25
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lestoros" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "ototylomys" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 2
+	Query: "Eira" ; Times: 1
+	Query: "Haeromys" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Cynomys type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cynomys country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 5
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Cedar Canyon county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "taxidea taxus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "saguinus midas" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
