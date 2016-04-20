@@ -1,0 +1,109 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 7
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 9
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "order:primates locality:PUERTO MALDONADO country:&#34;peru&#34;" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "3189 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bilobatum country:&#34;Honduras&#34;" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 2
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "order:primates locality:JESUS CARRANZA stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 2
+	Query: "cebus capucinus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:pilosus genus:Dasypus" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 6
+	Query: "Myotis oxyotus tissue:1" ; Times: 1
+	Query: "Diaemus" ; Times: 1
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 230 download events in this period)
+Total number of records downloaded: 134327
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Unknown ; Times: 10
+	Country: Colombia ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "tissue" ; Times: 35
+	Query: "ochotona" ; Times: 2
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
