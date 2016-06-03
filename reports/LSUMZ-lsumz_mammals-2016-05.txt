@@ -1,0 +1,150 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 441
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 7
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 17
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-15 ; Times: 12
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 8
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 6
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 14
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 5
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 11
+	Query: "lasiurus intermedius tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:gracilis genus:reithrodontomys country:&#34;costa rica&#34;" ; Times: 2
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "LSUMZ 10455" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "specificepithet:granatensis genus:sciurus order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "microsciurus" ; Times: 2
+	Query: "nelsonia goldmani" ; Times: 6
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "alouatta pigra" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "San Louis arizona" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "Panthera onca" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 7
+	Query: "panthera onca}" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Lasiurus intermedius tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 22
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "genus:hoplomys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous family:Vespertilionidae order:Chiroptera class:Mammalia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 327 download events in this period)
+Total number of records downloaded: 5312
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
