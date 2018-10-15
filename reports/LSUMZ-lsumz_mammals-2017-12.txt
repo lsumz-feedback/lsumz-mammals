@@ -1,0 +1,247 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2188
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 50
+	Country: Denmark ; Times: 16
+	Country: United States ; Times: 84
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 38
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 8
+	Date: 2017-12-12 ; Times: 8
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-10 ; Times: 3
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-18 ; Times: 6
+	Date: 2017-12-19 ; Times: 6
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-25 ; Times: 3
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 13
+	Date: 2017-12-05 ; Times: 22
+	Date: 2017-12-04 ; Times: 16
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-06 ; Times: 12
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-03 ; Times: 14
+	Date: 2017-12-02 ; Times: 48
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "LSU 16726" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "LSU 15106" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "recordedby:Douglas lay" ; Times: 3
+	Query: "houston museum of natural science" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 3
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "monodelphis" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "musonycteris harrisoni" ; Times: 46
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:argentiventer genus:Rattus country:&#34;Indonesia&#34; hastissue:1" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "LSU 13875" ; Times: 2
+	Query: "Myotis levis" ; Times: 5
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "sorex dispar" ; Times: 2
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 5
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;san juan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "LSU 17665" ; Times: 6
+	Query: "LSU 12556" ; Times: 4
+	Query: "22704" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "catalognumber:34420 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Haeromys" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Homo" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:LSUMZ" ; Times: 1
+	Query: "Eira barbara" ; Times: 3
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Snohomish&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34;" ; Times: 1
+	Query: "LSUMZ 36548" ; Times: 2
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "17521 class:mammalia year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; recordedby:Hafner institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "LASIURUS SEMINOLUS" ; Times: 8
+	Query: "panthera tigris" ; Times: 2
+	Query: "specificepithet:oxyotus genus:Myotis hastissue:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 2
+	Query: "genus:geomys county:&#34;aransas&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:LSUMZ" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus institutioncode:LSUMZ" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;San Juan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "genus:geomys county:&#34;nueces&#34; stateprovince:&#34;texas&#34;" ; Times: 10
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:LSUMZ" ; Times: 3
+	Query: "Farallon Mammals" ; Times: 5
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 5
+	Query: "scolomys melanops" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "genus:Didelphis county:&#34;East Baton Rouge&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 674 download events in this period)
+Total number of records downloaded: 6218
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 51
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-26 ; Times: 16
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:LSUMZ" ; Times: 3
+	Query: "Myotis simus" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "1990 Idaho" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "musonycteris harrisoni" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
