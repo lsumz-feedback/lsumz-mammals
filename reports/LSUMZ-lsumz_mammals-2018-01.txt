@@ -1,0 +1,517 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 673
+Number of records retrieved in searches: 6125
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 435
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 48
+	Country: Mexico ; Times: 88
+	Country: Unknown ; Times: 26
+	Country: Finland ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 10
+	Country: Denmark ; Times: 49
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 10
+	Date: 2018-01-18 ; Times: 9
+	Date: 2018-01-31 ; Times: 33
+	Date: 2018-01-30 ; Times: 21
+	Date: 2018-01-11 ; Times: 19
+	Date: 2018-01-10 ; Times: 27
+	Date: 2018-01-13 ; Times: 7
+	Date: 2018-01-12 ; Times: 26
+	Date: 2018-01-15 ; Times: 29
+	Date: 2018-01-14 ; Times: 25
+	Date: 2018-01-17 ; Times: 14
+	Date: 2018-01-16 ; Times: 94
+	Date: 2018-01-24 ; Times: 60
+	Date: 2018-01-25 ; Times: 72
+	Date: 2018-01-08 ; Times: 17
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 6
+	Date: 2018-01-29 ; Times: 16
+	Date: 2018-01-02 ; Times: 8
+	Date: 2018-01-03 ; Times: 8
+	Date: 2018-01-26 ; Times: 12
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-21 ; Times: 10
+	Date: 2018-01-22 ; Times: 28
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 82
+	Date: 2018-01-27 ; Times: 27
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 2
+	Query: "genus:Didelphis catalognumber:20367 institutioncode:LSUMZ" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 2
+	Query: "catalognumber:35237 institutioncode:LSUMZ" ; Times: 2
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "genus:Didelphis catalognumber:523 institutioncode:LSUMZ" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "(tremarctos ornatus) mappable:1" ; Times: 1
+	Query: "county:&#34;Wood&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "genus:Didelphis catalognumber:32225 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Pteronotus personatus" ; Times: 1
+	Query: "earlham" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 13
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "vntype:specimen order:cingulata preparations:alcohol" ; Times: 1
+	Query: "catalognumber:35233 institutioncode:LSUMZ" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Macaca sylvanus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 26
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "distance(location,geopoint(38.3638273712,-76.1375735855))&lt;12480" ; Times: 2
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 42
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "pudu mephistophiles" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 2
+	Query: "(Cynocephalidae) mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 21
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Peromyscus guatemalensis" ; Times: 1
+	Query: "alfari cricetidae" ; Times: 1
+	Query: "alfari muridae" ; Times: 1
+	Query: "specificepithet:breviceps genus:geomys stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34;" ; Times: 4
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;illinois&#34; hastissue:1" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "TREMARCTOS ornatus mappable:1" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "Chaetophractus villosus mappable:1" ; Times: 3
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Sturnira hondurensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Cormura brevirostris" ; Times: 1
+	Query: "Choloepus hoffmanni mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus skeleton" ; Times: 1
+	Query: "gbifdatasetid:847e2306-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "genus:Didelphis catalognumber:34298 institutioncode:LSUMZ" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:AUSTRORIPARIUS genus:MYOTIS stateprovince:&#34;LOUISIANA&#34; year &gt;= 2004 year &lt;= 2006" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 15
+	Query: "alfari rodentia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "29233" ; Times: 3
+	Query: "genus:Didelphis catalognumber:32303 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Didelphis catalognumber:2434 institutioncode:LSUMZ" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 42
+	Query: "genus:zygodontomys institutioncode:LSUMZ" ; Times: 3
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "distance(location,geopoint(26.250399137,-97.3632468503964))&lt;6433" ; Times: 3
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "26413" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "catalognumber:1995 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+	Query: "distance(location,geopoint(31.8311366040001,-95.40800157))&lt;16305" ; Times: 3
+	Query: "36607" ; Times: 3
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "&#34;TREMARCTOS ORNATUS&#34; mappable:1" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "genus:Didelphis catalognumber:32206 institutioncode:LSUMZ" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "distance(location,geopoint(42.982273806,-76.74601532925))&lt;2785" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Sciurillus" ; Times: 2
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 2
+	Query: "Myotis riparius" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;) mappable:1" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "&#34;Aethalops alecto&#34; mappable:1" ; Times: 1
+	Query: "(Tremarctos ornatus) mappable:1" ; Times: 8
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "genus:geomys locality:mustang island stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(26.0719813217379,-97.34352465675))&lt;4441" ; Times: 3
+	Query: "dinomys" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "genus:Baiomys order:Rodentia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "distance(location,geopoint(28.2843611965021,-96.909045492904))&lt;7630" ; Times: 3
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "catalognumber:35204 institutioncode:LSUMZ" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:micropotamogale" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "distance(location,geopoint(28.201407172,-96.9181141195))&lt;9172" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "genus:perodicticus country:&#34;kenya&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 48
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "lsumz 21018" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:LSUMZ" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "genus:ochrotomys class:Mammalia stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "genus:Didelphis catalognumber:9569 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 2
+	Query: "catalognumber:505 institutioncode:LSUMZ" ; Times: 3
+	Query: "distance(location,geopoint(30.1551591,-94.8285476729999))&lt;29704" ; Times: 3
+	Query: "lsumz 25018" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Tamandua mexicana Mexico" ; Times: 5
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "lsumz 25010" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "Dactylomys dactylinus" ; Times: 5
+	Query: "24291" ; Times: 1
+	Query: "lsumz 25015" ; Times: 1
+	Query: "lsumz 25016" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 9
+	Query: "Anoura geoffroyi" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 6
+	Query: "genus:perodicticus country:&#34;kenya&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 3
+	Query: "genus:Didelphis catalognumber:15106 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:oxyotus genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "sigmodontomys" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "genus:Didelphis catalognumber:32330 institutioncode:LSUMZ" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "&#34;Tapirus bairdii&#34; mappable:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "catalognumber:4670 institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34; tremarctos ornatus&#34; mappable:1" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "distance(location,geopoint(38.4600230857,-76.144085943))&lt;12886" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "specificepithet:Intermedius genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 20
+	Query: "(&#34;tremarctos ornatus&#34;) mappable:1" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 2
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "&#34;tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 4
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "&#34;chaetophractus&#34; &#34;villosus&#34; mappable:1" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "dermoptera" ; Times: 5
+	Query: "Atelocynus" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "specificepithet:ochraceus genus:paraxerus country:&#34;kenya&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "catalognumber:35232 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 5756" ; Times: 3
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "genus:Neacomys institutioncode:LSUMZ" ; Times: 1
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:longicaudus genus:microtus county:&#34;graham&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "mus musculus saint paul" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "eira barbara" ; Times: 2
+	Query: "specificepithet:oxyotus genus:Myotis hastissue:1" ; Times: 1
+	Query: "genus:Macaca order:Primates institutioncode:LSUMZ" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Tremarctos Ornatus mappable:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "distance(location,geopoint(29.7189808702855,-93.8858990183471))&lt;2043" ; Times: 3
+	Query: "distance(location,geopoint(43.0067691708,-76.73981359325))&lt;3234" ; Times: 2
+	Query: "&#34;Tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 4
+	Query: "specificepithet:mitis genus:cercopithecus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "specificepithet:lucifugus genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Didelphis catalognumber:32187 institutioncode:LSUMZ" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 6
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Lichonycteris obscura" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "balaenoptera Physalus" ; Times: 4
+	Query: "Panthera tigris" ; Times: 3
+	Query: "genus:geomys stateprovince:&#34;illinois&#34; hastissue:1" ; Times: 1
+	Query: "delanymys" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "genus:Didelphis catalognumber:32189 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Ochrotomys hastissue:1" ; Times: 2
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "tremarctos ornatus class:Mammalia mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 4
+	Query: "country:&#34;Democratic Republic of the Congo&#34; recordedby:Demos" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:LSUMZ" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "distance(location,geopoint(26.4784667749889,-97.32132335175))&lt;3480" ; Times: 3
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:cynomys family:sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Odocoileus virginianus mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:36375 institutioncode:LSUMZ" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Cebus capucinus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 457 (out of 1398 download events in this period)
+Total number of records downloaded: 17519
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 419
+	Country: Italy ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 15
+	Date: 2018-01-18 ; Times: 12
+	Date: 2018-01-31 ; Times: 22
+	Date: 2018-01-30 ; Times: 30
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-24 ; Times: 67
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 6
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 17
+	Date: 2018-01-25 ; Times: 66
+	Date: 2018-01-26 ; Times: 6
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 14
+	Date: 2018-01-21 ; Times: 9
+	Date: 2018-01-22 ; Times: 36
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-23 ; Times: 114
+	Date: 2018-01-27 ; Times: 3
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "(tremarctos ornatus) mappable:1" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 36
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 27
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "&#34;tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 4
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "TREMARCTOS ornatus mappable:1" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Chiroderma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Nevada&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 13
+	Query: "order:Rodentia county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "class:MAMMALIA locality:San Luis Potosi" ; Times: 1
+	Query: "&#34;TREMARCTOS ORNATUS&#34; mappable:1" ; Times: 1
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;) mappable:1" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "sigmodontomys" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "(Tremarctos ornatus) mappable:1" ; Times: 7
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;) mappable:1" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "specificepithet:oxyotus genus:Myotis institutioncode:LSUMZ" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 14
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "genus:Zapus" ; Times: 1
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Tremarctos Ornatus mappable:1" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "&#34;Tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 2
+	Query: "Myotis albescens" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga hastissue:1" ; Times: 1
+	Query: "tremarctos ornatus class:Mammalia mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Lasiurus seminolus mappable:1" ; Times: 1
+
+
+End of report.
