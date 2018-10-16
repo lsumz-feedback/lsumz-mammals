@@ -1,0 +1,265 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 243
+Number of records retrieved in searches: 2710
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 151
+	Country: Italy ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 30
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 19
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 8
+	Date: 2018-05-22 ; Times: 12
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 13
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 13
+	Date: 2018-05-04 ; Times: 17
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 15
+	Date: 2018-05-09 ; Times: 18
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 29
+	Date: 2018-05-16 ; Times: 11
+	Date: 2018-05-11 ; Times: 16
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 7
+	Date: 2018-05-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:35396 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Didelphis catalognumber:20367 institutioncode:LSUMZ" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;brazos&#34;" ; Times: 1
+	Query: "LSUMZ 2730 hastissue:1" ; Times: 2
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:oresterus genus:heteromys" ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "Colobus guereza" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "Priodontes" ; Times: 2
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Orange&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:LSUMZ" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "genus:Didelphis catalognumber:32189 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "genus:Didelphis catalognumber:1992 institutioncode:LSUMZ" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "catalognumber:9336 institutioncode:LSUMZ" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Micropotamogale ruwenzorii" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "LSUMZ 9179 hastissue:1" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 19
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "Cabassous" ; Times: 2
+	Query: "distance(location,geopoint(46.4422339105001,-96.13322835))&lt;31668" ; Times: 2
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "gbifdatasetid:847e2306-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "genus:geomys stateprovince:&#34;louisiana&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Platyrrhinus umbratus" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "everett w t" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "antilocapra institutioncode:LSUMZ" ; Times: 10
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:LSUMZ" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:stramineus genus:Sciurus institutioncode:LSUMZ" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 3
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "sheep institutioncode:LSUMZ" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "genus:Didelphis catalognumber:28772 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "Lycalopex sechurae" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Baraga&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 3
+	Query: "genus:Pongo preparations:alcohol" ; Times: 6
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "micropotamogale" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;grant&#34; stateprovince:&#34;louisiana&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 3
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "LSUMZ 9179" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 6
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "LSUMZ 2730" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "genus:Didelphis catalognumber:1991 institutioncode:LSUMZ" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 2
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "genus:Neotragus hastissue:1" ; Times: 4
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Scutisorex" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 5
+	Query: "Lutra lutra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1178 download events in this period)
+Total number of records downloaded: 3918
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tlaxcala" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
