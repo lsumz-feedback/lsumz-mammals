@@ -1,0 +1,413 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 496
+Number of records retrieved in searches: 4035
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 425
+	Country: Ecuador ; Times: 18
+	Country: Colombia ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 70
+	Date: 2019-01-23 ; Times: 10
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-19 ; Times: 6
+	Date: 2019-01-14 ; Times: 26
+	Date: 2019-01-15 ; Times: 19
+	Date: 2019-01-30 ; Times: 50
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 22
+	Date: 2019-01-11 ; Times: 20
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 7
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 38
+	Date: 2019-01-28 ; Times: 22
+	Date: 2019-01-07 ; Times: 39
+	Date: 2019-01-06 ; Times: 6
+	Date: 2019-01-05 ; Times: 15
+	Date: 2019-01-04 ; Times: 19
+	Date: 2019-01-21 ; Times: 7
+	Date: 2019-01-20 ; Times: 10
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-22 ; Times: 14
+	Date: 2019-01-25 ; Times: 11
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-27 ; Times: 9
+	Date: 2019-01-08 ; Times: 29
+	Date: 2019-01-16 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;cherokee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;trinity&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:7451 institutioncode:LSUMZ" ; Times: 4
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 3
+	Query: "LSU 5670" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "class:Mammalia county:&#34;jasper&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "20371" ; Times: 1
+	Query: "catalognumber:28005 institutioncode:LSUMZ" ; Times: 2
+	Query: "22236" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "catalognumber:30339 institutioncode:LSUMZ" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "catalognumber:30510 institutioncode:LSUMZ" ; Times: 4
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "catalognumber:11114 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:striatus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "genus:tamias stateprovince:&#34;MIssissippi&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;beauregard&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 4
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 3
+	Query: "16264" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "Cervus nippon" ; Times: 1
+	Query: "caluromys lanatus" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "catalognumber:7447 institutioncode:LSUMZ" ; Times: 2
+	Query: "Choloepus hoffmanni" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "genus:orthogeomys class:mammalia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Tenrec" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "catalognumber:2800 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 7
+	Query: "specificepithet:minimus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "Cynomys mexicanus" ; Times: 5
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "papio hamadryas" ; Times: 7
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7367 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:36120 institutioncode:LSUMZ" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 4
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 1
+	Query: "catalognumber:25405 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:35162 institutioncode:LSUMZ" ; Times: 3
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Megasorex gigas" ; Times: 5
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "lagunas AND Peru" ; Times: 1
+	Query: "catalognumber:28003 institutioncode:LSUMZ" ; Times: 2
+	Query: "class:Mammalia institutioncode:LSUMZ" ; Times: 3
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "16408" ; Times: 1
+	Query: "LSUMZ 22121" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 5
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "LSUMZ 22235" ; Times: 2
+	Query: "LSUMZ 22237" ; Times: 2
+	Query: "LSUMZ 22236" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catalognumber:30399 institutioncode:LSUMZ" ; Times: 5
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+	Query: "catalognumber:7373 institutioncode:LSUMZ" ; Times: 2
+	Query: "22239" ; Times: 1
+	Query: "catalognumber:7366 institutioncode:LSUMZ" ; Times: 2
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "catalognumber:28556 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:californicus genus:Peromyscus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis country:&#34;Mexico&#34; hastissue:1" ; Times: 3
+	Query: "catalognumber:7376 institutioncode:LSUMZ" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "LSUMZ 22239" ; Times: 2
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 5
+	Query: "LSUMZ 22238" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "(11966)" ; Times: 1
+	Query: "Canis latrans louisiana" ; Times: 7
+	Query: "26287" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "vntype:specimen (dermoptera)" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "catalognumber:10033 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "Chibchanomys" ; Times: 1
+	Query: "dermoptera" ; Times: 14
+	Query: "catalognumber:35375 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+	Query: "35646" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "specificepithet:amoenus genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 5
+	Query: "diplomys" ; Times: 1
+	Query: "megasorex" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:LSUMZ" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mayaguana&#34;" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "catalognumber:7371 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "genus:lepus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Sorex merriami year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;LOUISIANA&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "15171" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Minnesota&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 4
+	Query: "catalognumber:7372 institutioncode:LSUMZ" ; Times: 2
+	Query: "Dermoptera" ; Times: 9
+	Query: "Bradypus variegatus" ; Times: 4
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 4
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "LSU 16398" ; Times: 1
+	Query: "LSU 16399" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 2
+	Query: "class:mammalia locality:Santa Clara stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Cabassous unicinctus mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "catalognumber:35575 institutioncode:LSUMZ" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Inagua&#34;" ; Times: 5
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 253 (out of 962 download events in this period)
+Total number of records downloaded: 47462
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 217
+	Country: Ecuador ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 58
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-30 ; Times: 39
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 16
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 8
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-29 ; Times: 44
+	Date: 2019-01-28 ; Times: 18
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-22 ; Times: 7
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-27 ; Times: 13
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;cherokee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;trinity&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "class:Mammalia county:&#34;jasper&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Marmosa murina" ; Times: 1
+	Query: "class:Mammalia county:&#34;beauregard&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "genus:Herpestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "genus:Sorex stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Inagua&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia institutioncode:LSUMZ" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "class:Mammalia county:&#34;newton&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "yurimaguas" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "specificepithet:townsendii genus:Plecotus mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "genus:herpestes order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mayaguana&#34;" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;jefferson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+
+End of report.
