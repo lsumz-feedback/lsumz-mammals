@@ -1,0 +1,400 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 425
+Number of records retrieved in searches: 4104
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 165
+	Country: United States ; Times: 176
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Peru ; Times: 13
+	Country: Mexico ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 15
+	Country: Unknown ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 12
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 5
+	Date: 2019-05-08 ; Times: 14
+	Date: 2019-05-07 ; Times: 21
+	Date: 2019-05-06 ; Times: 49
+	Date: 2019-05-05 ; Times: 33
+	Date: 2019-05-04 ; Times: 5
+	Date: 2019-05-03 ; Times: 6
+	Date: 2019-05-02 ; Times: 10
+	Date: 2019-05-01 ; Times: 21
+	Date: 2019-05-25 ; Times: 14
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 24
+	Date: 2019-05-26 ; Times: 22
+	Date: 2019-05-21 ; Times: 13
+	Date: 2019-05-20 ; Times: 10
+	Date: 2019-05-23 ; Times: 6
+	Date: 2019-05-22 ; Times: 36
+	Date: 2019-05-29 ; Times: 4
+	Date: 2019-05-28 ; Times: 7
+	Date: 2019-05-18 ; Times: 8
+	Date: 2019-05-19 ; Times: 7
+	Date: 2019-05-10 ; Times: 13
+	Date: 2019-05-12 ; Times: 4
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-14 ; Times: 33
+	Date: 2019-05-15 ; Times: 15
+	Date: 2019-05-16 ; Times: 7
+	Date: 2019-05-17 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "Lichonycteris obscura mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "Phylloderma stenops mappable:1" ; Times: 1
+	Query: "sciurus stramineus" ; Times: 4
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Michigan&#34; year &gt;= 2000" ; Times: 2
+	Query: "LSUMZ 27253" ; Times: 2
+	Query: "genus:Galictis family:Mustelidae" ; Times: 1
+	Query: "gene vntype:specimen genus:Peromyscus family:Cricetidae" ; Times: 1
+	Query: "paruromys dominator" ; Times: 4
+	Query: "Lionycteris spurrelli mappable:1" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus county:&#34;Baton Rouge&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "micropotamogale" ; Times: 1
+	Query: "Myotis levis mappable:1" ; Times: 1
+	Query: "Holochilus brasiliensis mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Eumops glaucinus mappable:1" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Gracilinanus agilis mappable:1" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Glironia venusta" ; Times: 1
+	Query: "oecomys" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:lituratus genus:Artibeus catalognumber:37600 institutioncode:LSUMZ" ; Times: 1
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 7
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Tennessee&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Didelphis aurita mappable:1" ; Times: 5
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "catalognumber:4642 institutioncode:LSUMZ" ; Times: 1
+	Query: "lama guanicoe" ; Times: 4
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "thylamys pallidior" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 3
+	Query: "taeromys celebensis" ; Times: 9
+	Query: "megasorex gigas" ; Times: 6
+	Query: "Inia geoffrensis Peru" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 2
+	Query: "catalognumber:10670 institutioncode:LSUMZ" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "heteromys nelsoni" ; Times: 1
+	Query: "long island class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:sus institutioncode:LSUMZ" ; Times: 1
+	Query: "Platyrrhinus ismaeli" ; Times: 1
+	Query: "Pudu mephistophiles Peru" ; Times: 1
+	Query: "specificepithet:catta genus:lemur preparations:skeleton" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "gbifdatasetid:847e2306-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Centronycteris maximiliani mappable:1" ; Times: 1
+	Query: "country:&#34;Democratic Republic of the Congo&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34; year &gt;= 1981 year &lt;= 1987 institutioncode:LSUMZ" ; Times: 1
+	Query: "Lophostoma silvicolum mappable:1" ; Times: 1
+	Query: "catalognumber:17622 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:LSUMZ" ; Times: 2
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Marmosops juninensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "specificepithet:niger genus:Sciurus county:&#34;Feliciana&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "Vampyressa pusilla mappable:1" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Dactylomys peruanus" ; Times: 1
+	Query: "myotis fortidens country:&#34;mexico&#34;" ; Times: 2
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "genus:heliosciurus" ; Times: 1
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 1
+	Query: "LSU 34130" ; Times: 2
+	Query: "Eptesicus furinalis mappable:1" ; Times: 1
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "catalognumber:24097 institutioncode:LSUMZ" ; Times: 1
+	Query: "Nyctinomops aurispinosus mappable:1" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "sciurus alleni" ; Times: 4
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "puntarenas genus:sigmodon year &gt;= 1986" ; Times: 1
+	Query: "thomasomys aureus" ; Times: 6
+	Query: "Tonatia saurophila mappable:1" ; Times: 1
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 1
+	Query: "genus:varecia preparations:skeleton" ; Times: 1
+	Query: "Thyroptera discifera mappable:1" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 2
+	Query: "tonatia" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 10
+	Query: "39150" ; Times: 1
+	Query: "peromyscus vntype:specimen institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "family:leporidae order:lagomorpha stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "puerto lobos" ; Times: 1
+	Query: "gracilinanus aceramarcae" ; Times: 1
+	Query: "Caenolestes caniventer" ; Times: 1
+	Query: "bunomys chrysocomus" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "Mesoplodon densirostris mappable:1" ; Times: 1
+	Query: "Lonchophylla mordax mappable:1" ; Times: 3
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "LSUMZ 27254" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 3
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Rapides&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "santa ana eumops" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "Furipterus horrens mappable:1" ; Times: 2
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 2
+	Query: "micropotamogale ruwenzorii" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 4
+	Query: "Procyon cancrivorus mappable:1" ; Times: 13
+	Query: "Choeroniscus minor mappable:1" ; Times: 1
+	Query: "Macrophyllum macrophyllum mappable:1" ; Times: 1
+	Query: "Potamogale velox" ; Times: 1
+	Query: "sciurus ignitus" ; Times: 2
+	Query: "Tamandua tetradactyla Peru" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "santa ana molossops" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "microsciurus mimulus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Thyroptera tricolor mappable:1" ; Times: 1
+	Query: "Tomopeas ravus" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Eumops bonariensis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;3000" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus county:&#34;Feliciana&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Dactylomys boliviensis" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "genus:Mesomys family:Echimyidae order:Rodentia institutioncode:LSUMZ" ; Times: 1
+	Query: "sciurus oculatus" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 4
+	Query: "genus:megasorex" ; Times: 1
+	Query: "Artibeus fimbriatus mappable:1" ; Times: 5
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "Oecomys bicolor mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 1
+	Query: "genus:Sciurus county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "histiotus" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Vernon&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Galictis cuja mappable:1" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "Chibchanomys" ; Times: 2
+	Query: "Caluromys lanatus mappable:1" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "diphylla" ; Times: 7
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 4
+	Query: "county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 27374" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Cyclopes didactylus mappable:1" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 1
+	Query: "lsu 30452" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "lsumz 17485" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 13
+	Query: "Priodontes maximus mappable:1" ; Times: 1
+	Query: "sciurus yucatanensis" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "genus:Micropotamogale institutioncode:LSUMZ" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "genus:Micropotamogale country:&#34;Democratic Republic of the Congo&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "sciurus pyrrhinus" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "marmosops juninensis" ; Times: 1
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "genus:perodicticus preparations:skeleton" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 3
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "lenomys meyeri" ; Times: 2
+	Query: "Homo sapiens Peru" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "catalognumber:27784 institutioncode:LSUMZ" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 1
+	Query: "Gracilinanus aceramarcae" ; Times: 4
+	Query: "sciurus igniventris" ; Times: 5
+	Query: "Micronycteris minuta mappable:1" ; Times: 1
+	Query: "Eira barbara Peru" ; Times: 1
+	Query: "catalognumber:16673 institutioncode:LSUMZ" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 17
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "Histiotus montanus mappable:1" ; Times: 4
+	Query: "genus:Micropotamogale" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 13
+	Query: "Chinchillula sahamae" ; Times: 1
+	Query: "Peropteryx kappleri mappable:1" ; Times: 1
+	Query: "Cabassous unicinctus mappable:1" ; Times: 2
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "catalognumber:38200 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "Herpailurus yaguarondi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 940 download events in this period)
+Total number of records downloaded: 2471
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 27
+	Country: Ethiopia ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 8
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 4
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34; year &gt;= 1981 year &lt;= 1987 institutioncode:LSUMZ" ; Times: 1
+	Query: "Chinchillula sahamae" ; Times: 2
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "megasorex gigas" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Michigan&#34; year &gt;= 2000" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Vernon&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "marmosops noctivagus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus county:&#34;Feliciana&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus county:&#34;Baton Rouge&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Rapides&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "Glironia venusta" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "Tomopeas ravus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Tennessee&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "genus:Mesomys family:Echimyidae order:Rodentia institutioncode:LSUMZ" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus county:&#34;Feliciana&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Peromyscus megalops megalops stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Grant&#34; stateprovince:&#34;Louisiana&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "gracilinanus aceramarcae" ; Times: 1
+	Query: "Caenolestes caniventer" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.36048311832555,-110.01021818168437))&lt;39962" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Lestoros inca" ; Times: 1
+
+
+End of report.
