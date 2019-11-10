@@ -1,0 +1,377 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 578
+Number of records retrieved in searches: 2536
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: United States ; Times: 446
+	Country: Israel ; Times: 1
+	Country: Honduras ; Times: 3
+	Country: Peru ; Times: 6
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Argentina ; Times: 40
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 6
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-17 ; Times: 10
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 8
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 21
+	Date: 2019-09-30 ; Times: 15
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 30
+	Date: 2019-09-02 ; Times: 15
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 6
+	Date: 2019-09-06 ; Times: 16
+	Date: 2019-09-05 ; Times: 11
+	Date: 2019-09-04 ; Times: 16
+	Date: 2019-09-21 ; Times: 17
+	Date: 2019-09-20 ; Times: 18
+	Date: 2019-09-23 ; Times: 30
+	Date: 2019-09-22 ; Times: 9
+	Date: 2019-09-25 ; Times: 53
+	Date: 2019-09-24 ; Times: 78
+	Date: 2019-09-27 ; Times: 81
+	Date: 2019-09-26 ; Times: 82
+	Date: 2019-09-29 ; Times: 9
+	Date: 2019-09-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Idionycteris hastissue:1" ; Times: 6
+	Query: "27957" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 5
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 2
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Saguinus midas mappable:1" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 23
+	Query: "Myotis sodalis" ; Times: 15
+	Query: "specimen LSUMZ 27957" ; Times: 1
+	Query: "catalognumber:18985 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 4
+	Query: "recordedby:Gaudin" ; Times: 1
+	Query: "Aotus trivirgatus mappable:1" ; Times: 1
+	Query: "order:CARNIVORA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "nippon" ; Times: 1
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;wyoming&#34; year &gt;= 1900 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 4
+	Query: "Sphaeronycteris" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "27957 Akodon" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Callicebus moloch mappable:1" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "genus:Scolomys" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "class:mammalia locality:rio tambopata stateprovince:&#34;madre de dios&#34; country:&#34;peru&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 1
+	Query: "Thyroptera discifera" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:female hassex:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Jamiltepec" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "megaderma lyra" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 116
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Maine&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 4
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "LSUMZ 28001" ; Times: 2
+	Query: "LSU 33988" ; Times: 3
+	Query: "16994." ; Times: 1
+	Query: "specificepithet:latrans rufus genus:canis class:Mammalia" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 6
+	Query: "charazani" ; Times: 1
+	Query: "patrick specificepithet:thysanodes genus:myotis" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Microtus pennsylvanicus 1975" ; Times: 1
+	Query: "LSUMZ 20251" ; Times: 2
+	Query: "Artibeus anderseni" ; Times: 1
+	Query: "genus:notiosorex county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "nivalis mustela" ; Times: 2
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 3
+	Query: "patrick 7 specificepithet:thysanodes genus:myotis" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "Saguinus imperator mappable:1" ; Times: 2
+	Query: "Saguinus nigricollis mappable:1" ; Times: 2
+	Query: "palustris warren" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "catalognumber:3326 institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 3
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 7
+	Query: "genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:glaucomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Peromyscus maniculatus 1988" ; Times: 2
+	Query: "Ateles paniscus mappable:1" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "Peromyscus maniculatus 1980" ; Times: 2
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "Ateles fusciceps mappable:1" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "&#34;Rattus rattus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 3117" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 3
+	Query: "specificepithet:leucopus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "genus:rattus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 2004" ; Times: 2
+	Query: "Peromyscus maniculatus 2007" ; Times: 2
+	Query: "Peromyscus maniculatus 2001" ; Times: 1
+	Query: "Peromyscus maniculatus 2000" ; Times: 1
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Galictis vittata" ; Times: 2
+	Query: "scolomys" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "catalognumber:12594 institutioncode:LSUMZ" ; Times: 1
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 2
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "specificepithet:bicolor genus:Coendou" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "family:MURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:didelphis class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Myotis simus" ; Times: 33
+	Query: "Saimiri oerstedii mappable:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Microtus pennsylvanicus 2003" ; Times: 1
+	Query: "Bootherium" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "LSUMZ 4423" ; Times: 1
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 4
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "lsumz 8414" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 38
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:blarina class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "vntype:specimen (Dasypus novemcinctus) hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Cebus apella mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "LSUMZ 27841" ; Times: 4
+	Query: "catalognumber:20044 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:canis class:Mammalia" ; Times: 3
+	Query: "mammals cerro gordo" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specimen LSUMZ 27960" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969 hassex:1" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "specificepithet:norvegicus genus:rattus family:muridae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:myotis evotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "Microtus pennsylvanicus 1973" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 4
+	Query: "specificepithet:gapperi stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Alouatta pigra mappable:1" ; Times: 1
+	Query: "genus:scalopus class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Saimiri boliviensis mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 4
+	Query: "catalognumber:9982 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "LSUMZ 19586" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "order:Carnivora locality:Hidalgo" ; Times: 7
+	Query: "catalognumber:9600 institutioncode:LSUMZ" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 11
+	Query: "specificepithet:rufus genus:canis" ; Times: 3
+	Query: "catalognumber:9806 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:muridae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "canis rufus" ; Times: 9
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1980 year &lt;= 1989 hassex:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:14759 institutioncode:LSUMZ" ; Times: 2
+	Query: "bootherium" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "37768" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 148 (out of 1073 download events in this period)
+Total number of records downloaded: 2500
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 116
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-23 ; Times: 15
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 20
+	Date: 2019-09-24 ; Times: 6
+	Date: 2019-09-27 ; Times: 12
+	Date: 2019-09-26 ; Times: 38
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Holochilus" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hastissue:1" ; Times: 59
+	Query: "eumops perotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; hastissue:1" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "genus:Hipposideros continent:Asia hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia country:&#34;Brazil&#34; (Amazonas OR Pará OR Para OR Acre OR Roraima OR Rondonia OR Rondônia OR Amapá OR Amapa)" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Jamiltepec" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specimen LSUMZ 27957" ; Times: 1
+	Query: "27957 Akodon" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Idionycteris phyllotis hastissue:1" ; Times: 2
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1 hastissue:1" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 3
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "monte escobedo" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 5
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
