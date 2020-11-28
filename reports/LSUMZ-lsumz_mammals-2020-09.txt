@@ -1,0 +1,377 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 4223
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 70
+	Country: Mexico ; Times: 67
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 157
+	Country: Guatemala ; Times: 5
+	Country: Ireland ; Times: 5
+	Country: Colombia ; Times: 9
+	Country: Hong Kong ; Times: 1
+	Country: South Korea ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-08 ; Times: 14
+	Date: 2020-09-03 ; Times: 20
+	Date: 2020-09-02 ; Times: 9
+	Date: 2020-09-01 ; Times: 15
+	Date: 2020-09-07 ; Times: 24
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 7
+	Date: 2020-09-04 ; Times: 14
+	Date: 2020-09-21 ; Times: 6
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 13
+	Date: 2020-09-22 ; Times: 26
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-27 ; Times: 6
+	Date: 2020-09-26 ; Times: 8
+	Date: 2020-09-29 ; Times: 8
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-16 ; Times: 9
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-17 ; Times: 26
+	Date: 2020-09-10 ; Times: 11
+	Date: 2020-09-11 ; Times: 13
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 66
+	Date: 2020-09-18 ; Times: 14
+	Date: 2020-09-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "(myotis lucifugus) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 4
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "specificepithet:superans genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:macconnelli genus:oryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:colocolo genus:Leopardus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "Platalina genovensium vntype:specimen preparations:skull" ; Times: 1
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 2
+	Query: "(lasiurus borealis) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "specificepithet:nana genus:Sturnira" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon hastissue:1" ; Times: 1
+	Query: "genus:scolomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:alstoni genus:Marmosa institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "galictis vittata" ; Times: 2
+	Query: "LSUMZ 1822" ; Times: 2
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "277 specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "LSUMZ 23821" ; Times: 3
+	Query: "genus:Scolomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lonchophylla robusta vntype:specimen preparations:skull" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 3
+	Query: "Cabassous" ; Times: 2
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "LSU 5128" ; Times: 1
+	Query: "specificepithet:paricola genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "genus:Nectomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen" ; Times: 1
+	Query: "class:mammalia catalognumber:1311 institutioncode:LSUMZ" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 4
+	Query: "&#34;leopardus wiedii&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana mexicana" ; Times: 11
+	Query: "&#34;Eira barbara&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "LSUMZ 24904" ; Times: 2
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 2
+	Query: "Dactylomys peruanus" ; Times: 2
+	Query: "37130" ; Times: 1
+	Query: "Nyctinomops laticaudatus Peru" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "sturnira luisi" ; Times: 1
+	Query: "Musonycteris harrisoni vntype:specimen preparations:skull" ; Times: 1
+	Query: "Vampyressa pusilla vntype:specimen preparations:skull" ; Times: 1
+	Query: "LSUMZ 1574" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "scientificname:Cebus capucinus" ; Times: 1
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:phaeotis genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "16794" ; Times: 1
+	Query: "lsu 5400" ; Times: 1
+	Query: "LSUMZ 15446" ; Times: 2
+	Query: "276 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "LSUMZ 16093" ; Times: 2
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "specificepithet:bidens genus:Sturnira" ; Times: 3
+	Query: "order:Soricomorpha stateprovince:&#34;Iowa&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Colobus guereza" ; Times: 5
+	Query: "LSUMZ 1568" ; Times: 1
+	Query: "Lonchophylla mordax vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ 1565" ; Times: 2
+	Query: "specificepithet: flavigula genus:Martes hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "Myotis chiloensis Piura Peru" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "scientificname:Peromyscus aztecus" ; Times: 1
+	Query: "LSUMZ 2721 Chiroptera" ; Times: 2
+	Query: "Chiroptera Piura" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "Artibeus fraterculus Piura Peru" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 5
+	Query: "scientificname:Liomys irroratus" ; Times: 3
+	Query: "23790" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34; hastissue:1" ; Times: 1
+	Query: "genus:Hydrochoerus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Sturnira nana" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 20
+	Query: "Myotis atacamensis Peru" ; Times: 1
+	Query: "LSUMZ 26380" ; Times: 2
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "alouatta pigra" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "eutamias merriami" ; Times: 1
+	Query: "Myotis oxyotus LSU" ; Times: 1
+	Query: "specificepithet:venusta genus:Glironia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 5
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "specificepithet:igniventris genus:Sciurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis México" ; Times: 1
+	Query: "specificepithet:demerarae genus:Micoureus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "277 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "LSUMZ 37914" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Iowa&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "LSUMZ 16649" ; Times: 1
+	Query: "genus:monophyllus (at)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Iowa&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Microsciurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "preparations:skin (lasiurus borealis) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "Platyrrhinus Piura Peru" ; Times: 1
+	Query: "Scotinomys xerampelinus" ; Times: 5
+	Query: "genus:Rousettus family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Sulawesi&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lanatus genus:Caluromys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 3
+	Query: "genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Neacomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:oligoryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "scientificname:Peromyscus furvus" ; Times: 1
+	Query: "Herpailurus yaguarondi Mexico" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 1
+	Query: "(eptesicus fuscus) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Lycalopex hastissue:1" ; Times: 1
+	Query: "vntype:specimen preparations:skin (lasiurus borealis) AND (NOT Alcohol ) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 2333" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Peru&#34;" ; Times: 20
+	Query: "25093" ; Times: 1
+	Query: "LSUMZ 14258" ; Times: 2
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "genus:oryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "LSUMZ 2721" ; Times: 2
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "genus:Myoprocta stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Amorphochilus" ; Times: 1
+	Query: "genus:Mesomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:pusillus genus:sciurillus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "LSUMZ 24904;" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Ectophylla alba vntype:specimen preparations:skull" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "recordedby:matthews institutioncode:LSUMZ" ; Times: 5
+	Query: "family:Hipposideridae order:chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 1987 institutioncode:LSUMZ" ; Times: 1
+	Query: "Choeroniscus minor vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "vntype:specimen (lasiurus borealis) AND (NOT Alcohol ) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Cynopterus family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 4
+	Query: "Mesocricetus auratus" ; Times: 3
+	Query: "specificepithet:nitidus genus:oryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:colocolo country:&#34;Peru&#34;" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana" ; Times: 11
+	Query: "specificepithet:minimus genus:Chironectes stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "LSUMZ 26378" ; Times: 2
+	Query: "genus:Nasua hastissue:1" ; Times: 1
+	Query: "scientificname:Tremarctos ornatus" ; Times: 18
+	Query: "Chrotopterus auritus Peru" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "catalognumber:11353 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 976 download events in this period)
+Total number of records downloaded: 7751
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 57
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 12
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-17 ; Times: 10
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Herpailurus yaguarondi Mexico" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "chiroptera Tabasco" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:igniventris genus:Sciurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Scotinomys xerampelinus" ; Times: 1
+	Query: "(eptesicus fuscus) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "lophostoma silvicolum vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Chiroptera Tabasco" ; Times: 2
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:nana genus:Sturnira" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Tabasco" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Osgoodomys banderanus mexico" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "artibeus cinereus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus pardalis México" ; Times: 1
+	Query: "vntype:specimen genus:Rousettus family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "genus:Neacomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "vntype:specimen genus:Cynopterus family:Pteropodidae order:Chiroptera stateprovince:&#34;Sulawesi&#34;" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Aplodontia" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Scolomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Sturnira nana" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "vntype:specimen (lasiurus borealis) AND (NOT Alcohol ) year &gt;= 1960 year &lt;= 1985 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
