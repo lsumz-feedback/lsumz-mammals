@@ -1,0 +1,197 @@
+Report for Institution Code LSUMZ, Resource lsumz_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 319
+Number of records retrieved in searches: 8764
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: United States ; Times: 189
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 30
+	Country: Peru ; Times: 28
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-18 ; Times: 1
+	Date: 2020-06-30 ; Times: 2
+	Date: 2020-06-14 ; Times: 3
+	Date: 2020-06-17 ; Times: 14
+	Date: 2020-06-11 ; Times: 13
+	Date: 2020-06-10 ; Times: 68
+	Date: 2020-06-13 ; Times: 8
+	Date: 2020-06-12 ; Times: 52
+	Date: 2020-06-26 ; Times: 1
+	Date: 2020-06-06 ; Times: 10
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-20 ; Times: 4
+	Date: 2020-06-22 ; Times: 5
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-25 ; Times: 1
+	Date: 2020-06-08 ; Times: 20
+	Date: 2020-06-09 ; Times: 22
+	Date: 2020-06-28 ; Times: 1
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-04 ; Times: 13
+	Date: 2020-06-05 ; Times: 11
+	Date: 2020-06-02 ; Times: 20
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 5
+	Query: "chrysocomus" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "genus:bunomys country:indonesia" ; Times: 2
+	Query: "glironia" ; Times: 1
+	Query: "LSUMZ 19402" ; Times: 1
+	Query: "LSUMZ 19373" ; Times: 1
+	Query: "LSUMZ 19376" ; Times: 1
+	Query: "LSUMZ 19377" ; Times: 1
+	Query: "LSUMZ 19374" ; Times: 1
+	Query: "LSUMZ 19375" ; Times: 1
+	Query: "LSUMZ 19378" ; Times: 1
+	Query: "LSUMZ 19379" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "coendou" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Dactylomys" ; Times: 22
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Dactylomys peruanus" ; Times: 4
+	Query: "genus:hylomys" ; Times: 13
+	Query: "LSUMZ 19412" ; Times: 1
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "genus:maxomys surifer" ; Times: 1
+	Query: "LSUMZ 19416" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "LSUMZ 19387" ; Times: 1
+	Query: "LSUMZ 19386" ; Times: 1
+	Query: "LSUMZ 19385" ; Times: 2
+	Query: "LSUMZ 19384" ; Times: 1
+	Query: "LSUMZ 19383" ; Times: 1
+	Query: "LSUMZ 19382" ; Times: 2
+	Query: "LSUMZ 19381" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "lenomys" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "LSUMZ 19407" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "LSUMZ 19398" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "genus:pithecheir" ; Times: 3
+	Query: "LSUMZ 25504" ; Times: 1
+	Query: "LSUMZ 25505" ; Times: 1
+	Query: "LSUMZ 25502" ; Times: 1
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 25501" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "LSUMZ 25508" ; Times: 1
+	Query: "LSUMZ 25503" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "genus:bunomys country:indonesia institutioncode:lsumz" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 6
+	Query: "genus:peromyscus institutioncode:lsumz" ; Times: 2
+	Query: "niviventer cremoriventer" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "rahmi" ; Times: 1
+	Query: "genus:bunomys" ; Times: 12
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "mustela asia" ; Times: 2
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "maxomys surifer" ; Times: 3
+	Query: "genus:crocidura specificepithet:monticola" ; Times: 2
+	Query: "Hyorhinomys" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;Cheboygan&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "genus:maxomys" ; Times: 2
+	Query: "bunomys" ; Times: 63
+	Query: "Homo sapiens" ; Times: 18
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "genus:peromyscus specificepithet:leucopus institutioncode:lsumz" ; Times: 1
+	Query: "genus:rattus recordedby:erickson" ; Times: 3
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "bunomys chrysocomus" ; Times: 11
+	Query: "Geomys arenarius" ; Times: 2
+	Query: "21719" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 5
+	Query: "paruromys" ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "distance(location,geopoint(33.529,-105.694))&lt;2000" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 474 download events in this period)
+Total number of records downloaded: 1313
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Poland ; Times: 2
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "bunomys chrysocomus" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lestoros" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "rahmi" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
